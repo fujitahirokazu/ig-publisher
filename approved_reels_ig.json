@@ -1,0 +1,59 @@
+{
+  "_comment": "GitHub Actions(ig-publish.yml)が毎日19:00 JSTに読む。status=pending かつ scheduled_date==今日(JST) のものをIG Graph APIで投稿→status=postedに更新。video_urlは同repoのvideos/(public)をMetaが取得。",
+  "reels": [
+    {
+      "id": "2026-06-29-sekai1",
+      "theme": "両利き",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/reel1_sekai_voiced.mp4",
+      "caption": "成功してる会社ほど、なぜ\"無駄打ち\"を続けるのか。\n\n答えは『世界標準の経営理論』の両利き。経営の本質は2つ。\n❶知の探索：未知に出ていく\n❷知の深化：強みを磨き込む\n\n人も組織も放っておくと❷に寄る。だから経営者の仕事は、構造的に❶を作り続けること。\n\n自分もBPで毎年いちばん悩むのが「探索の予算をどう残すか」。\n#世界標準の経営理論 #ビジネス書",
+      "scheduled_date": "2026-06-29",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-06-30-sekai2",
+      "theme": "認知バイアス",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/reel2_sekai_voiced.mp4",
+      "caption": "頭がいい人ほどハマる罠が、認知バイアス。意思決定の最大の敵。\n\nよくやる3つ：\n❶確証バイアス：見たい情報だけ集める\n❷サンクコスト：過去の投資に縛られる\n❸現状維持バイアス：変化を避ける\n\n怖いのは、賢い人ほど\"自分は大丈夫\"と思ってること。本書の答えは「個人でなく組織で乗り越える」だった。\n#世界標準の経営理論 #ビジネス書",
+      "scheduled_date": "2026-06-30",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-07-01-sekai3",
+      "theme": "レッドクイーン理論",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/reel3_sekai_voiced.mp4",
+      "caption": "「同じ場所に留まるには、全力で走り続けねばならない」\n鏡の国のアリスの一節から来た、レッドクイーン理論。\n\n競合と競い続けるほど、自社も相手も強くなり、業界全体のレベルが上がる。\n\n怖いのは逆。ぬるい環境にいると、気づけば\"世界の戦線\"に置いていかれる。\n\n自分の業界の進化スピードは、定期的に測りたい。\n#世界標準の経営理論 #ビジネス書",
+      "scheduled_date": "2026-07-01",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-07-02-sekai4",
+      "theme": "ゲーム理論",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/reel4_sekai_voiced.mp4",
+      "caption": "自社の戦略、相手の出方を読まずに決めてないか？\n\n『世界標準の経営理論』いわく、この世のかなりはゲーム理論で説明できる。戦略は単独で打つものでなく、相手の手を読んで打つもの。\n\n❶競合分析：次の一手を読む\n❷価格・入札：相手の反応込みで設計\n❸提携・M&A交渉：競争相手を意識\n\n「自分だけ最適化」から卒業したい。\n#世界標準の経営理論 #ビジネス書",
+      "scheduled_date": "2026-07-02",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-07-03-sekai5",
+      "theme": "センスメイキング",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/reel5_sekai_voiced.mp4",
+      "caption": "正解がない時、強い組織がやってるのがセンスメイキング。\n\n『世界標準の経営理論』第23章。\n❶意味は事後的に決まる\n❷リーダーが\"物語\"をつくる\n❸動きながら意味が定まる\n\n戦略は最初から正解なんてない。動きながら方向を更新するのが、いまの正解。\n\n迷う案件ほど「仮の意味づけ」を先に言葉にして動き出したい。\n#世界標準の経営理論 #ビジネス書",
+      "scheduled_date": "2026-07-03",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-07-04-sekai6",
+      "theme": "ダイナミック・ケイパビリティ",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/reel6_sekai_voiced.mp4",
+      "caption": "生き残る組織と消える組織、違いは「変わる力」。\n\n『世界標準の経営理論』のダイナミック・ケイパビリティ。変わる力は3つに宿る。\n❶感知：変化を察知する\n❷捕捉：機会を掴む\n❸変革：組織を組み替える\n\n構造改革もPMIも、結局この3つを会社として体系的にやれるかの勝負。\n\n経営理論6つ、これでコンプリート。\n#世界標準の経営理論 #ビジネス書",
+      "scheduled_date": "2026-07-04",
+      "post_time": "19:00",
+      "status": "pending"
+    }
+  ]
+}
