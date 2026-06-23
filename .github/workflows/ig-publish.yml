@@ -1,0 +1,37 @@
+name: ig-publish
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "1 = do not post, list targets only (test)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Publish due reels
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+          TZ: Asia/Tokyo
+        run: python ig_publish.py
+      - name: Commit status updates
+        if: ${{ github.event.inputs.dry_run != '1' }}
+        run: |
+          git config user.name "ig-publisher-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add approved_reels_ig.json logs/posted_log.json || true
+          git commit -m "ig-publish run" || echo "no changes"
+          git push || echo "push skipped"
