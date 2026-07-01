@@ -38,7 +38,7 @@
       "id": "car03_redqueen",
       "theme": "レッドクイーン",
       "scheduled_date": "2026-07-01",
-      "status": "pending",
+      "status": "posted",
       "caption": "ぬるい職場が危ない理由＝レッドクイーン理論。競争が業界全体を強くする。思考の武器③。\n保存して四半期に「進化速度」を点検。ぬるい環境にいる人に送って。\n#世界標準の経営理論 #競争戦略 #戦略 #ビジネス書 #自己啓発 #ビジネス書要約 #経営企画 #仕事術 #朝活",
       "image_urls": [
         "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/c3s1.jpg",
@@ -47,7 +47,9 @@
         "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/c3s4.jpg",
         "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/c3s5.jpg",
         "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/c3s6.jpg"
-      ]
+      ],
+      "media_id": "17904969906445810",
+      "posted_at": "2026-07-01T22:18:53+09:00"
     },
     {
       "id": "car04_game",
