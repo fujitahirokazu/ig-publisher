@@ -1,0 +1,43 @@
+name: ig-publish
+
+# 毎日 19:00 JST (= 10:00 UTC) に実行。手動実行(workflow_dispatch)も可（DRY_RUNで安全確認）。
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "1にすると投稿せず対象だけ表示（テスト）"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write   # 投稿後に approved_reels_ig.json / logs をコミットするため
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Publish due reels
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GRAPH_VERSION: ${{ vars.GRAPH_VERSION }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+          TZ: Asia/Tokyo
+        run: python ig_publish.py
+
+      - name: Commit status updates
+        if: ${{ github.event.inputs.dry_run != '1' }}
+        run: |
+          git config user.name "ig-publisher-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/approved_reels_ig.json logs/posted_log.json || true
+          git commit -m "chore: ig-publish run $(date -u +%FT%TZ)" || echo "no changes"
+          git push || echo "push skipped"
