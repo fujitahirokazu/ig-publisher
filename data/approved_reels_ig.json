@@ -2,56 +2,56 @@
   "series": "影響力の武器（隔日）",
   "reels": [
     {
-      "id": "2026-07-12-henpousei",
+      "id": "2026-07-10-henpousei",
       "theme": "①返報性",
       "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel01_eikyoryoku_henpousei.mp4",
       "caption": "先に与える人が、最後に一番\"通す\"。\n交渉で譲歩を引き出すコツは、こちらが先に小さく譲ること。\n明日の一手：頼む前に、相手に1つ差し出す。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #マネジメント #キャリア #心理学",
+      "scheduled_date": "2026-07-10",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-07-12-commitment",
+      "theme": "②一貫性",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel02_commitment.mp4",
+      "caption": "人は\"言った自分\"に縛られる。\n会議で合意を取るなら、いきなり本題でなく小さなYESから積む。\n明日の一手：本題の前に、相手が\"はい\"と言える確認を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #会議 #マネジメント #キャリア #心理学",
       "scheduled_date": "2026-07-12",
       "post_time": "19:00",
       "status": "pending"
     },
     {
-      "id": "2026-07-14-commitment",
-      "theme": "②一貫性",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel02_commitment.mp4",
-      "caption": "人は\"言った自分\"に縛られる。\n会議で合意を取るなら、いきなり本題でなく小さなYESから積む。\n明日の一手：本題の前に、相手が\"はい\"と言える確認を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #会議 #マネジメント #キャリア #心理学",
+      "id": "2026-07-14-socialproof",
+      "theme": "③社会的証明",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel03_socialproof.mp4",
+      "caption": "「みんなやってます」が刺さる時と、逆に嘘くさくなる時がある。差は1つ——\"相手に似た人\"の例か。\n明日の一手：事例は\"相手と同じ立場の人\"のものを出す。\n\n#ビジネス #仕事術 #影響力の武器 #マーケティング #キャリア #心理学",
       "scheduled_date": "2026-07-14",
       "post_time": "19:00",
       "status": "pending"
     },
     {
-      "id": "2026-07-16-socialproof",
-      "theme": "③社会的証明",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel03_socialproof.mp4",
-      "caption": "「みんなやってます」が刺さる時と、逆に嘘くさくなる時がある。差は1つ——\"相手に似た人\"の例か。\n明日の一手：事例は\"相手と同じ立場の人\"のものを出す。\n\n#ビジネス #仕事術 #影響力の武器 #マーケティング #キャリア #心理学",
+      "id": "2026-07-16-liking",
+      "theme": "④好意",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel04_liking.mp4",
+      "caption": "中身が同じでも\"誰が言うか\"で通り方が変わる。好意は作れる——共通点を1つ見つけるだけ。\n明日の一手：商談の最初の30秒で、相手との共通点を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #営業 #キャリア #心理学",
       "scheduled_date": "2026-07-16",
       "post_time": "19:00",
       "status": "pending"
     },
     {
-      "id": "2026-07-18-liking",
-      "theme": "④好意",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel04_liking.mp4",
-      "caption": "中身が同じでも\"誰が言うか\"で通り方が変わる。好意は作れる——共通点を1つ見つけるだけ。\n明日の一手：商談の最初の30秒で、相手との共通点を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #営業 #キャリア #心理学",
+      "id": "2026-07-18-authority",
+      "theme": "⑤権威",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel05_authority.mp4",
+      "caption": "権威は\"出しすぎ\"で逆効果になる。効くのは 権威 × 誠実さ。「分からない」を言える人ほど強い。\n明日の一手：根拠の直後に\"前提\"を一言添える。\n\n#ビジネス #仕事術 #影響力の武器 #リーダーシップ #キャリア #心理学",
       "scheduled_date": "2026-07-18",
       "post_time": "19:00",
       "status": "pending"
     },
     {
-      "id": "2026-07-20-authority",
-      "theme": "⑤権威",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel05_authority.mp4",
-      "caption": "権威は\"出しすぎ\"で逆効果になる。効くのは 権威 × 誠実さ。「分からない」を言える人ほど強い。\n明日の一手：根拠の直後に\"前提\"を一言添える。\n\n#ビジネス #仕事術 #影響力の武器 #リーダーシップ #キャリア #心理学",
-      "scheduled_date": "2026-07-20",
-      "post_time": "19:00",
-      "status": "pending"
-    },
-    {
-      "id": "2026-07-22-scarcity",
+      "id": "2026-07-20-scarcity",
       "theme": "⑥希少性",
       "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel06_scarcity.mp4",
       "caption": "「いつでもできる」は「やらない」と同じ。締切は、相手のためにも要る。\n明日の一手：提案に\"いつまでに決めると何が得か\"を1行。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #キャリア #心理学",
-      "scheduled_date": "2026-07-22",
+      "scheduled_date": "2026-07-20",
       "post_time": "19:00",
       "status": "pending"
     }
