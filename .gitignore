@@ -1,2 +1,11 @@
 __pycache__/
 *.pyc
+# --- secret guard (Public repo・auto-git-sync誤commit防止) ---
+.env
+*.env
+token.json
+*token*.json
+*secret*
+credentials*.json
+client_secret*.json
+*.key
