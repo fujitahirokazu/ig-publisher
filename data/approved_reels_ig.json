@@ -69,6 +69,15 @@
       "scheduled_date": "2026-07-22",
       "post_time": "19:00",
       "status": "pending"
+    },
+    {
+      "id": "2026-07-24-loss-aversion",
+      "theme": "損失回避（ファスト&スロー）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260715_loss_aversion.mp4",
+      "caption": "「得する話」より「損する話」に、人は強く反応する——これが損失回避。\nだから「お得です」の一点押しは意外と動かない。人が動くのは“損を避けたい”とき。\n明日の一手：提案に“今動かないと何を失うか”を1行だけ添える。\n\n#ビジネス #仕事術 #ファストアンドスロー #行動経済学 #損失回避 #交渉術 #キャリア #心理学",
+      "scheduled_date": "2026-07-24",
+      "post_time": "19:00",
+      "status": "pending"
     }
   ]
 }
