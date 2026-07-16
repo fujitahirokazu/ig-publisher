@@ -80,6 +80,15 @@
       "scheduled_date": "2026-07-24",
       "post_time": "19:00",
       "status": "pending"
+    },
+    {
+      "id": "2026-07-26-choice-overload",
+      "theme": "選択肢過多（選択の科学）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260717_choice_overload.mp4",
+      "caption": "「選択肢は多いほど親切」——実は逆。多すぎる選択肢は、人を“選べなく”する。\n昔の自分は良かれと案をずらりと並べ「ご検討を」。相手は選べず、話は止まった。\n明日の一手：提案は3つまで。そして「まずこれ」と一番手を先に言う。\n\n#ビジネス #仕事術 #選択の科学 #意思決定 #提案力 #交渉術 #キャリア #心理学",
+      "scheduled_date": "2026-07-26",
+      "post_time": "19:00",
+      "status": "pending"
     }
   ]
 }
