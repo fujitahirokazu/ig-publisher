@@ -41,9 +41,7 @@
       "caption": "中身が同じでも\"誰が言うか\"で通り方が変わる。好意は作れる——共通点を1つ見つけるだけ。\n明日の一手：商談の最初の30秒で、相手との共通点を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #営業 #キャリア #心理学",
       "scheduled_date": "2026-07-16",
       "post_time": "19:00",
-      "status": "posted",
-      "media_id": "17960358378137742",
-      "posted_at": "2026-07-16T20:27:35+09:00"
+      "status": "pending"
     },
     {
       "id": "2026-07-18-authority",
@@ -52,9 +50,7 @@
       "caption": "権威は\"出しすぎ\"で逆効果になる。効くのは 権威 × 誠実さ。「分からない」を言える人ほど強い。\n明日の一手：根拠の直後に\"前提\"を一言添える。\n\n#ビジネス #仕事術 #影響力の武器 #リーダーシップ #キャリア #心理学",
       "scheduled_date": "2026-07-18",
       "post_time": "19:00",
-      "status": "posted",
-      "media_id": "18075240386692500",
-      "posted_at": "2026-07-18T19:56:36+09:00"
+      "status": "pending"
     },
     {
       "id": "2026-07-20-scarcity",
@@ -84,11 +80,47 @@
       "status": "pending"
     },
     {
-      "id": "2026-07-26-choice-overload",
-      "theme": "選択肢過多（選択の科学）",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260717_choice_overload.mp4",
-      "caption": "「選択肢は多いほど親切」——実は逆。多すぎる選択肢は、人を“選べなく”する。\n昔の自分は良かれと案をずらりと並べ「ご検討を」。相手は選べず、話は止まった。\n明日の一手：提案は3つまで。そして「まずこれ」と一番手を先に言う。\n\n#ビジネス #仕事術 #選択の科学 #意思決定 #提案力 #交渉術 #キャリア #心理学",
-      "scheduled_date": "2026-07-26",
+      "id": "2026-07-27-ronten-kyujitsu",
+      "theme": "論点スライド①休日",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten01_kyujitsu.mp4",
+      "caption": "「この休日、何に使う？」を、気分でなく論点で。\n回復／充実／投資のどれに賭けるか——いちばん枯れているのは睡眠。だから答えは回復、まず半日、寝る。\n明日の一手：休みは「何が枯れてるか」で決める。\n型と全5例はプロフィールのリンクに。\n\n#思考法 #論点思考 #休養 #セルフマネジメント #生産性 #キャリア #心理学",
+      "scheduled_date": "2026-07-27",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-07-30-ronten-tenshoku",
+      "theme": "論点スライド②転職",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten02_tenshoku.mp4",
+      "caption": "「転職すべきか？」を、勢いでなく論点で。\n不満は現職で解けないか／移って本当に良くなるか／下振れは飲めるか。今は動かない——まず現職で不満を潰し、潰せなければ動く。\n明日の一手：辞める前に「ここで解けない理由」を1つ言語化。\n型と全5例はプロフィールのリンクに。\n\n#転職 #キャリア #思考法 #論点思考 #意思決定 #仕事術",
+      "scheduled_date": "2026-07-30",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-02-ronten-kaigi",
+      "theme": "論点スライド③会議",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten03_kaigi.mp4",
+      "caption": "「その会議、出るべき？」を、惰性でなく論点で。\n自分しか出せない判断があるか／同期でないと駄目か／その場の関係が要るか。3つとも要らないなら、出ない。議事メモ＋非同期でよい。\n明日の一手：「呼ばれたから」でなく「出る理由が本物か」で決める。\n型と全5例はプロフィールのリンクに。\n\n#会議 #仕事術 #生産性 #論点思考 #タイムマネジメント #キャリア",
+      "scheduled_date": "2026-08-02",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-05-ronten-sasoi",
+      "theme": "論点スライド④誘い",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten04_sasoi.mp4",
+      "caption": "「その誘い、乗るべき？」を、空気でなく論点で。\n何を差し出すか／何が得られるか／その気持ちは本物か。失う＞得る、動機も本物でない——だから断る。\n明日の一手：誘いは「断れない空気」でなく「損得と動機」で。\n型と全5例はプロフィールのリンクに。\n\n#人間関係 #意思決定 #思考法 #論点思考 #キャリア #心理学",
+      "scheduled_date": "2026-08-05",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-08-ronten-kaimono",
+      "theme": "論点スライド⑤買い物",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten05_kaimono.mp4",
+      "caption": "「この高いブレンダー、買うべき？」を、勢いでなく論点で。\n本当に要るか／金額に見合うか／今でないと駄目か。3つとも欠けるなら、買わない。\n明日の一手：高い買い物は「要る・見合う・いま」で検品する。\n型と全5例はプロフィールのリンクに。\n\n#買い物 #節約 #意思決定 #思考法 #論点思考 #お金",
+      "scheduled_date": "2026-08-08",
       "post_time": "19:00",
       "status": "pending"
     }
