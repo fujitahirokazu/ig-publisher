@@ -1,132 +1,128 @@
 {
-  "series": "影響力の武器（隔日）",
-  "reels": [
-    {
-      "id": "2026-07-10-henpousei",
-      "theme": "①返報性",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel01_eikyoryoku_henpousei.mp4",
-      "caption": "先に与える人が、最後に一番\"通す\"。\n交渉で譲歩を引き出すコツは、こちらが先に小さく譲ること。\n明日の一手：頼む前に、相手に1つ差し出す。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #マネジメント #キャリア #心理学",
-      "scheduled_date": "2026-07-10",
-      "post_time": "19:00",
-      "status": "posted",
-      "media_id": "18110154967953461",
-      "posted_at": "2026-07-10T17:19:35+09:00"
-    },
-    {
-      "id": "2026-07-12-commitment",
-      "theme": "②一貫性",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel02_commitment.mp4",
-      "caption": "人は\"言った自分\"に縛られる。\n会議で合意を取るなら、いきなり本題でなく小さなYESから積む。\n明日の一手：本題の前に、相手が\"はい\"と言える確認を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #会議 #マネジメント #キャリア #心理学",
-      "scheduled_date": "2026-07-12",
-      "post_time": "19:00",
-      "status": "posted",
-      "media_id": "17986557068843485",
-      "posted_at": "2026-07-12T20:06:12+09:00"
-    },
-    {
-      "id": "2026-07-14-socialproof",
-      "theme": "③社会的証明",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel03_socialproof.mp4",
-      "caption": "「みんなやってます」が刺さる時と、逆に嘘くさくなる時がある。差は1つ——\"相手に似た人\"の例か。\n明日の一手：事例は\"相手と同じ立場の人\"のものを出す。\n\n#ビジネス #仕事術 #影響力の武器 #マーケティング #キャリア #心理学",
-      "scheduled_date": "2026-07-14",
-      "post_time": "19:00",
-      "status": "posted",
-      "media_id": "18325501666276377",
-      "posted_at": "2026-07-14T20:19:36+09:00"
-    },
-    {
-      "id": "2026-07-16-liking",
-      "theme": "④好意",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel04_liking.mp4",
-      "caption": "中身が同じでも\"誰が言うか\"で通り方が変わる。好意は作れる——共通点を1つ見つけるだけ。\n明日の一手：商談の最初の30秒で、相手との共通点を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #営業 #キャリア #心理学",
-      "scheduled_date": "2026-07-16",
-      "post_time": "19:00",
-      "status": "posted",
-      "media_id": "17876232915685321",
-      "posted_at": "2026-07-19T20:06:58+09:00"
-    },
-    {
-      "id": "2026-07-18-authority",
-      "theme": "⑤権威",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel05_authority.mp4",
-      "caption": "権威は\"出しすぎ\"で逆効果になる。効くのは 権威 × 誠実さ。「分からない」を言える人ほど強い。\n明日の一手：根拠の直後に\"前提\"を一言添える。\n\n#ビジネス #仕事術 #影響力の武器 #リーダーシップ #キャリア #心理学",
-      "scheduled_date": "2026-07-18",
-      "post_time": "19:00",
-      "status": "failed",
-      "fail_at": "2026-07-19T20:10:38+09:00",
-      "error": "container 17885625897669601 -> ERROR: {'status_code': 'ERROR', 'status': 'ERROR', 'id': '17885625897669601'}"
-    },
-    {
-      "id": "2026-07-20-scarcity",
-      "theme": "⑥希少性",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel06_scarcity.mp4",
-      "caption": "「いつでもできる」は「やらない」と同じ。締切は、相手のためにも要る。\n明日の一手：提案に\"いつまでに決めると何が得か\"を1行。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #キャリア #心理学",
-      "scheduled_date": "2026-07-20",
-      "post_time": "19:00",
-      "status": "pending"
-    },
-    {
-      "id": "2026-07-22-issue-do",
-      "theme": "イシュー度（イシューからはじめよ）",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260713_issue_kara.mp4",
-      "caption": "忙しいのに成果が出ない——原因は「解き方」じゃなく、「解くべき問題」の選び損ね。\n昔の自分は来た順に片づけて満足していた。量は出ても刺さらない。\n明日の一手：着手前に「これは今、解く価値があるか？」と一度問う。\n\n#ビジネス #仕事術 #イシューからはじめよ #論点思考 #生産性 #キャリア #マネジメント",
-      "scheduled_date": "2026-07-22",
-      "post_time": "19:00",
-      "status": "pending"
-    },
-    {
-      "id": "2026-07-24-loss-aversion",
-      "theme": "損失回避（ファスト&スロー）",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260715_loss_aversion.mp4",
-      "caption": "「得する話」より「損する話」に、人は強く反応する——これが損失回避。\nだから「お得です」の一点押しは意外と動かない。人が動くのは“損を避けたい”とき。\n明日の一手：提案に“今動かないと何を失うか”を1行だけ添える。\n\n#ビジネス #仕事術 #ファストアンドスロー #行動経済学 #損失回避 #交渉術 #キャリア #心理学",
-      "scheduled_date": "2026-07-24",
-      "post_time": "19:00",
-      "status": "pending"
-    },
-    {
-      "id": "2026-07-27-ronten-kyujitsu",
-      "theme": "論点スライド①休日",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten01_kyujitsu.mp4",
-      "caption": "「この休日、何に使う？」を、気分でなく論点で。\n回復／充実／投資のどれに賭けるか——いちばん枯れているのは睡眠。だから答えは回復、まず半日、寝る。\n明日の一手：休みは「何が枯れてるか」で決める。\n型と全5例はプロフィールのリンクに。\n\n#思考法 #論点思考 #休養 #セルフマネジメント #生産性 #キャリア #心理学",
-      "scheduled_date": "2026-07-27",
-      "post_time": "19:00",
-      "status": "pending"
-    },
-    {
-      "id": "2026-07-30-ronten-tenshoku",
-      "theme": "論点スライド②転職",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten02_tenshoku.mp4",
-      "caption": "「転職すべきか？」を、勢いでなく論点で。\n不満は現職で解けないか／移って本当に良くなるか／下振れは飲めるか。今は動かない——まず現職で不満を潰し、潰せなければ動く。\n明日の一手：辞める前に「ここで解けない理由」を1つ言語化。\n型と全5例はプロフィールのリンクに。\n\n#転職 #キャリア #思考法 #論点思考 #意思決定 #仕事術",
-      "scheduled_date": "2026-07-30",
-      "post_time": "19:00",
-      "status": "pending"
-    },
-    {
-      "id": "2026-08-02-ronten-kaigi",
-      "theme": "論点スライド③会議",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten03_kaigi.mp4",
-      "caption": "「その会議、出るべき？」を、惰性でなく論点で。\n自分しか出せない判断があるか／同期でないと駄目か／その場の関係が要るか。3つとも要らないなら、出ない。議事メモ＋非同期でよい。\n明日の一手：「呼ばれたから」でなく「出る理由が本物か」で決める。\n型と全5例はプロフィールのリンクに。\n\n#会議 #仕事術 #生産性 #論点思考 #タイムマネジメント #キャリア",
-      "scheduled_date": "2026-08-02",
-      "post_time": "19:00",
-      "status": "pending"
-    },
-    {
-      "id": "2026-08-05-ronten-sasoi",
-      "theme": "論点スライド④誘い",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten04_sasoi.mp4",
-      "caption": "「その誘い、乗るべき？」を、空気でなく論点で。\n何を差し出すか／何が得られるか／その気持ちは本物か。失う＞得る、動機も本物でない——だから断る。\n明日の一手：誘いは「断れない空気」でなく「損得と動機」で。\n型と全5例はプロフィールのリンクに。\n\n#人間関係 #意思決定 #思考法 #論点思考 #キャリア #心理学",
-      "scheduled_date": "2026-08-05",
-      "post_time": "19:00",
-      "status": "pending"
-    },
-    {
-      "id": "2026-08-08-ronten-kaimono",
-      "theme": "論点スライド⑤買い物",
-      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten05_kaimono.mp4",
-      "caption": "「この高いブレンダー、買うべき？」を、勢いでなく論点で。\n本当に要るか／金額に見合うか／今でないと駄目か。3つとも欠けるなら、買わない。\n明日の一手：高い買い物は「要る・見合う・いま」で検品する。\n型と全5例はプロフィールのリンクに。\n\n#買い物 #節約 #意思決定 #思考法 #論点思考 #お金",
-      "scheduled_date": "2026-08-08",
-      "post_time": "19:00",
-      "status": "pending"
-    }
-  ]
+ "series": "影響力の武器（隔日）",
+ "reels": [
+  {
+   "id": "2026-07-10-henpousei",
+   "theme": "①返報性",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel01_eikyoryoku_henpousei.mp4",
+   "caption": "先に与える人が、最後に一番\"通す\"。\n交渉で譲歩を引き出すコツは、こちらが先に小さく譲ること。\n明日の一手：頼む前に、相手に1つ差し出す。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #マネジメント #キャリア #心理学",
+   "scheduled_date": "2026-07-10",
+   "post_time": "19:00",
+   "status": "posted",
+   "media_id": "18110154967953461",
+   "posted_at": "2026-07-10T17:19:35+09:00"
+  },
+  {
+   "id": "2026-07-12-commitment",
+   "theme": "②一貫性",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel02_commitment.mp4",
+   "caption": "人は\"言った自分\"に縛られる。\n会議で合意を取るなら、いきなり本題でなく小さなYESから積む。\n明日の一手：本題の前に、相手が\"はい\"と言える確認を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #会議 #マネジメント #キャリア #心理学",
+   "scheduled_date": "2026-07-12",
+   "post_time": "19:00",
+   "status": "posted",
+   "media_id": "17986557068843485",
+   "posted_at": "2026-07-12T20:06:12+09:00"
+  },
+  {
+   "id": "2026-07-14-socialproof",
+   "theme": "③社会的証明",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel03_socialproof.mp4",
+   "caption": "「みんなやってます」が刺さる時と、逆に嘘くさくなる時がある。差は1つ——\"相手に似た人\"の例か。\n明日の一手：事例は\"相手と同じ立場の人\"のものを出す。\n\n#ビジネス #仕事術 #影響力の武器 #マーケティング #キャリア #心理学",
+   "scheduled_date": "2026-07-14",
+   "post_time": "19:00",
+   "status": "posted",
+   "media_id": "18325501666276377",
+   "posted_at": "2026-07-14T20:19:36+09:00"
+  },
+  {
+   "id": "2026-07-16-liking",
+   "theme": "④好意",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel04_liking.mp4",
+   "caption": "中身が同じでも\"誰が言うか\"で通り方が変わる。好意は作れる——共通点を1つ見つけるだけ。\n明日の一手：商談の最初の30秒で、相手との共通点を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #営業 #キャリア #心理学",
+   "scheduled_date": "2026-07-16",
+   "post_time": "19:00",
+   "status": "pending"
+  },
+  {
+   "id": "2026-07-18-authority",
+   "theme": "⑤権威",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel05_authority.mp4",
+   "caption": "権威は\"出しすぎ\"で逆効果になる。効くのは 権威 × 誠実さ。「分からない」を言える人ほど強い。\n明日の一手：根拠の直後に\"前提\"を一言添える。\n\n#ビジネス #仕事術 #影響力の武器 #リーダーシップ #キャリア #心理学",
+   "scheduled_date": "2026-07-18",
+   "post_time": "19:00",
+   "status": "pending"
+  },
+  {
+   "id": "2026-07-20-scarcity",
+   "theme": "⑥希少性",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel06_scarcity.mp4",
+   "caption": "「いつでもできる」は「やらない」と同じ。締切は、相手のためにも要る。\n明日の一手：提案に\"いつまでに決めると何が得か\"を1行。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #キャリア #心理学",
+   "scheduled_date": "2026-07-20",
+   "post_time": "19:00",
+   "status": "pending"
+  },
+  {
+   "id": "2026-07-22-issue-do",
+   "theme": "イシュー度（イシューからはじめよ）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260713_issue_kara.mp4",
+   "caption": "忙しいのに成果が出ない——原因は「解き方」じゃなく、「解くべき問題」の選び損ね。\n昔の自分は来た順に片づけて満足していた。量は出ても刺さらない。\n明日の一手：着手前に「これは今、解く価値があるか？」と一度問う。\n\n#ビジネス #仕事術 #イシューからはじめよ #論点思考 #生産性 #キャリア #マネジメント",
+   "scheduled_date": "2026-07-22",
+   "post_time": "19:00",
+   "status": "pending"
+  },
+  {
+   "id": "2026-07-24-loss-aversion",
+   "theme": "損失回避（ファスト&スロー）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260715_loss_aversion.mp4",
+   "caption": "「得する話」より「損する話」に、人は強く反応する——これが損失回避。\nだから「お得です」の一点押しは意外と動かない。人が動くのは“損を避けたい”とき。\n明日の一手：提案に“今動かないと何を失うか”を1行だけ添える。\n\n#ビジネス #仕事術 #ファストアンドスロー #行動経済学 #損失回避 #交渉術 #キャリア #心理学",
+   "scheduled_date": "2026-07-24",
+   "post_time": "19:00",
+   "status": "pending"
+  },
+  {
+   "id": "2026-07-27-ronten-kyujitsu",
+   "theme": "論点スライド①休日",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten01_kyujitsu.mp4",
+   "caption": "「この休日、何に使う？」を、気分でなく論点で。\n回復／充実／投資のどれに賭けるか——いちばん枯れているのは睡眠。だから答えは回復、まず半日、寝る。\n明日の一手：休みは「何が枯れてるか」で決める。\n型と全5例はプロフィールのリンクに。\n\n#思考法 #論点思考 #休養 #セルフマネジメント #生産性 #キャリア #心理学",
+   "scheduled_date": "2026-07-27",
+   "post_time": "19:00",
+   "status": "pending"
+  },
+  {
+   "id": "2026-07-30-ronten-tenshoku",
+   "theme": "論点スライド②転職",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten02_tenshoku.mp4",
+   "caption": "「転職すべきか？」を、勢いでなく論点で。\n不満は現職で解けないか／移って本当に良くなるか／下振れは飲めるか。今は動かない——まず現職で不満を潰し、潰せなければ動く。\n明日の一手：辞める前に「ここで解けない理由」を1つ言語化。\n型と全5例はプロフィールのリンクに。\n\n#転職 #キャリア #思考法 #論点思考 #意思決定 #仕事術",
+   "scheduled_date": "2026-07-30",
+   "post_time": "19:00",
+   "status": "pending"
+  },
+  {
+   "id": "2026-08-02-ronten-kaigi",
+   "theme": "論点スライド③会議",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten03_kaigi.mp4",
+   "caption": "「その会議、出るべき？」を、惰性でなく論点で。\n“出す”ものはあるか／議事録に残らない何かを“受ける”必要はあるか／“居る”こと自体に意味はあるか。判定は同じ一問——議事メモと後追いのひと言で取り返せるか。3つとも取り返せるなら、出ない。\n明日の一手：会議は「呼ばれたから」でなく「取り返せるか」で決める。\n型と全5例はプロフィールのリンクに。\n\n#会議 #仕事術 #生産性 #論点思考 #タイムマネジメント #キャリア",
+   "scheduled_date": "2026-08-02",
+   "post_time": "19:00",
+   "status": "pending"
+  },
+  {
+   "id": "2026-08-05-ronten-sasoi",
+   "theme": "論点スライド④誘い",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten04_sasoi.mp4",
+   "caption": "「その誘い、乗るべき？」を、空気でなく論点で。\n何を差し出すか／何が得られるか／その気持ちは本物か。失う＞得る、動機も本物でない——だから断る。\n明日の一手：誘いは「断れない空気」でなく「損得と動機」で。\n型と全5例はプロフィールのリンクに。\n\n#人間関係 #意思決定 #思考法 #論点思考 #キャリア #心理学",
+   "scheduled_date": "2026-08-05",
+   "post_time": "19:00",
+   "status": "pending"
+  },
+  {
+   "id": "2026-08-08-ronten-kaimono",
+   "theme": "論点スライド⑤買い物",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten05_kaimono.mp4",
+   "caption": "「この高いブレンダー、買うべき？」を、勢いでなく論点で。\n本当に要るか／金額に見合うか／今でないと駄目か。3つとも欠けるなら、買わない。\n明日の一手：高い買い物は「要る・見合う・いま」で検品する。\n型と全5例はプロフィールのリンクに。\n\n#買い物 #節約 #意思決定 #思考法 #論点思考 #お金",
+   "scheduled_date": "2026-08-08",
+   "post_time": "19:00",
+   "status": "pending"
+  }
+ ]
 }
