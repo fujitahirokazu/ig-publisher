@@ -123,6 +123,15 @@
    "scheduled_date": "2026-08-08",
    "post_time": "19:00",
    "status": "pending"
+  },
+  {
+   "id": "2026-08-10-anchoring",
+   "theme": "アンカリング（ファスト&スロー）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260720_anchoring.mp4",
+   "caption": "その金額、なぜ“最初に出た数字”で決まる？——これがアンカリング。\n人は最初に見た数字を基準にして、そこから少し動くだけ。だから先に数字を置いた側が着地点を握る。根拠が薄くても、錨は効いてしまう。\n明日の一手：交渉は自分から数字を置く。置かれたら、一度ゼロから相場を引き直す。\n\n#ビジネス #仕事術 #ファストアンドスロー #アンカリング #交渉術 #行動経済学 #意思決定 #心理学 #キャリア",
+   "scheduled_date": "2026-08-10",
+   "post_time": "19:00",
+   "status": "pending"
   }
  ]
 }
