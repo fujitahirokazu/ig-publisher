@@ -165,6 +165,15 @@
       "scheduled_date": "2026-08-20",
       "post_time": "19:00",
       "status": "pending"
+    },
+    {
+      "id": "2026-08-22-thegoal-toc",
+      "theme": "制約理論（ザ・ゴール）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260722_thegoal_toc.mp4",
+      "caption": "「全員フル稼働」なのに成果が増えない——原因は“一番遅い1か所”。\n仕事全体の速さは最も遅い工程（ボトルネック）で決まる。手前を速くしてもそこで詰まるだけ。打ち手は逆張りで、遅い1か所に人と時間を集中する。\n明日の一手：毎回ここで詰まる工程を1つだけ書き出し、直すのはそこだけにする。\n\n#ビジネス #仕事術 #ザゴール #制約理論 #ボトルネック #生産性 #マネジメント #思考法",
+      "scheduled_date": "2026-08-22",
+      "post_time": "19:00",
+      "status": "pending"
     }
   ]
 }
