@@ -1,0 +1,113 @@
+{
+ "fetched_at": "2026-07-23T04:29:30.360232Z",
+ "graph_version": "v25.0",
+ "token_present": true,
+ "count": 7,
+ "reels": [
+  {
+   "media_id": "18110154967953461",
+   "date": "2026-07-10",
+   "theme": "①返報性",
+   "metrics": {
+    "views": 59,
+    "reach": 52,
+    "likes": 0,
+    "comments": 0,
+    "saved": 2,
+    "shares": 0,
+    "total_interactions": 2
+   },
+   "error": null
+  },
+  {
+   "media_id": "17986557068843485",
+   "date": "2026-07-12",
+   "theme": "②一貫性",
+   "metrics": {
+    "views": 80,
+    "reach": 55,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null
+  },
+  {
+   "media_id": "18325501666276377",
+   "date": "2026-07-14",
+   "theme": "③社会的証明",
+   "metrics": {
+    "views": 60,
+    "reach": 57,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null
+  },
+  {
+   "media_id": "18105882722038453",
+   "date": "2026-07-20",
+   "theme": "④好意",
+   "metrics": {
+    "views": 24,
+    "reach": 24,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1
+   },
+   "error": null
+  },
+  {
+   "media_id": "18357294337244457",
+   "date": "2026-07-20",
+   "theme": "⑤権威",
+   "metrics": {
+    "views": 181,
+    "reach": 167,
+    "likes": 0,
+    "comments": 0,
+    "saved": 2,
+    "shares": 0,
+    "total_interactions": 2
+   },
+   "error": null
+  },
+  {
+   "media_id": "18023849987852356",
+   "date": "2026-07-20",
+   "theme": "⑥希少性",
+   "metrics": {
+    "views": 40,
+    "reach": 33,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null
+  },
+  {
+   "media_id": "18091239017568445",
+   "date": "2026-07-22",
+   "theme": "イシュー度（イシューからはじめよ）",
+   "metrics": {
+    "views": 22,
+    "reach": 16,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null
+  }
+ ]
+}
