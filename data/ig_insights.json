@@ -1,8 +1,8 @@
 {
- "fetched_at": "2026-07-24T01:29:33.100315Z",
+ "fetched_at": "2026-07-24T16:29:40.291457Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 7,
+ "count": 8,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -24,8 +24,8 @@
    "date": "2026-07-12",
    "theme": "②一貫性",
    "metrics": {
-    "views": 80,
-    "reach": 55,
+    "views": 81,
+    "reach": 56,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -53,16 +53,8 @@
    "media_id": "18105882722038453",
    "date": "2026-07-20",
    "theme": "④好意",
-   "metrics": {
-    "views": 24,
-    "reach": 24,
-    "likes": 1,
-    "comments": 0,
-    "saved": 0,
-    "shares": 0,
-    "total_interactions": 1
-   },
-   "error": null
+   "metrics": {},
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A82-isouzWBJrf6F6VfEtFi\"}}"
   },
   {
    "media_id": "18357294337244457",
@@ -84,8 +76,8 @@
    "date": "2026-07-20",
    "theme": "⑥希少性",
    "metrics": {
-    "views": 42,
-    "reach": 34,
+    "views": 43,
+    "reach": 35,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -101,6 +93,21 @@
    "metrics": {
     "views": 26,
     "reach": 20,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null
+  },
+  {
+   "media_id": "18083480396409297",
+   "date": "2026-07-24",
+   "theme": "損失回避（ファスト&スロー）",
+   "metrics": {
+    "views": 65,
+    "reach": 47,
     "likes": 0,
     "comments": 0,
     "saved": 0,
