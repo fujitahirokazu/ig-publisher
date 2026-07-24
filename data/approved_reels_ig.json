@@ -178,6 +178,15 @@
       "scheduled_date": "2026-08-22",
       "post_time": "19:00",
       "status": "pending"
+    },
+    {
+      "id": "2026-08-24-essentialism",
+      "theme": "エッセンシャル思考（より少なく、しかしより良く）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260724_essentialism.mp4",
+      "caption": "「全部大事」は「全部どうでもいい」と同じ。\n頑張る量を増やすほど力が分散し、どれも中途半端に終わる。本質的な“少数”に絞った時だけ成果は突き抜ける。危険なのは「まあまあ大事」——即やる以外は思い切って手放す。\n明日の一手：ToDoから「まあまあ大事」を1つ消す。\n\n#エッセンシャル思考 #より少なくしかしより良く #意思決定 #優先順位 #仕事術 #生産性 #ビジネス書 #名著 #思考法",
+      "scheduled_date": "2026-08-24",
+      "post_time": "19:00",
+      "status": "pending"
     }
   ]
 }
