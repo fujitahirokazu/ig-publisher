@@ -1,8 +1,8 @@
 {
- "fetched_at": "2026-07-24T22:48:59.027460Z",
+ "fetched_at": "2026-07-25T22:40:48.003825Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 8,
+ "count": 9,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -54,7 +54,7 @@
    "date": "2026-07-20",
    "theme": "④好意",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A6KZTMAYBx4o1sxAhGjA-Tn\"}}"
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A0hHCUqO-zvNVkVNGLy0Wkf\"}}"
   },
   {
    "media_id": "18357294337244457",
@@ -76,8 +76,8 @@
    "date": "2026-07-20",
    "theme": "⑥希少性",
    "metrics": {
-    "views": 43,
-    "reach": 36,
+    "views": 48,
+    "reach": 37,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -91,8 +91,8 @@
    "date": "2026-07-22",
    "theme": "イシュー度（イシューからはじめよ）",
    "metrics": {
-    "views": 28,
-    "reach": 21,
+    "views": 30,
+    "reach": 23,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -106,8 +106,23 @@
    "date": "2026-07-24",
    "theme": "損失回避（ファスト&スロー）",
    "metrics": {
-    "views": 120,
-    "reach": 107,
+    "views": 126,
+    "reach": 114,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null
+  },
+  {
+   "media_id": "18383107135200731",
+   "date": "2026-07-25",
+   "theme": "論点スライド①休日",
+   "metrics": {
+    "views": 29,
+    "reach": 19,
     "likes": 0,
     "comments": 0,
     "saved": 0,
