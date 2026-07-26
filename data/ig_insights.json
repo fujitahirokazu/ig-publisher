@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-07-25T22:40:48.003825Z",
+ "fetched_at": "2026-07-26T22:45:46.522958Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 9,
@@ -54,7 +54,7 @@
    "date": "2026-07-20",
    "theme": "④好意",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A0hHCUqO-zvNVkVNGLy0Wkf\"}}"
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A0bKI4xSEyJOX0HbYxI9wEY\"}}"
   },
   {
    "media_id": "18357294337244457",
@@ -91,8 +91,8 @@
    "date": "2026-07-22",
    "theme": "イシュー度（イシューからはじめよ）",
    "metrics": {
-    "views": 30,
-    "reach": 23,
+    "views": 34,
+    "reach": 24,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -107,7 +107,7 @@
    "theme": "損失回避（ファスト&スロー）",
    "metrics": {
     "views": 126,
-    "reach": 114,
+    "reach": 115,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -121,8 +121,8 @@
    "date": "2026-07-25",
    "theme": "論点スライド①休日",
    "metrics": {
-    "views": 29,
-    "reach": 19,
+    "views": 45,
+    "reach": 30,
     "likes": 0,
     "comments": 0,
     "saved": 0,
