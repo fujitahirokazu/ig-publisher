@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-07-26T22:45:46.522958Z",
+ "fetched_at": "2026-07-27T22:46:49.416683Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 9,
@@ -54,15 +54,15 @@
    "date": "2026-07-20",
    "theme": "④好意",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A0bKI4xSEyJOX0HbYxI9wEY\"}}"
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AhbcU1vWD_MZ8ySMcSWCyDM\"}}"
   },
   {
    "media_id": "18357294337244457",
    "date": "2026-07-20",
    "theme": "⑤権威",
    "metrics": {
-    "views": 181,
-    "reach": 167,
+    "views": 182,
+    "reach": 168,
     "likes": 0,
     "comments": 0,
     "saved": 2,
@@ -76,8 +76,8 @@
    "date": "2026-07-20",
    "theme": "⑥希少性",
    "metrics": {
-    "views": 48,
-    "reach": 37,
+    "views": 49,
+    "reach": 38,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -91,8 +91,8 @@
    "date": "2026-07-22",
    "theme": "イシュー度（イシューからはじめよ）",
    "metrics": {
-    "views": 34,
-    "reach": 24,
+    "views": 35,
+    "reach": 25,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -106,13 +106,13 @@
    "date": "2026-07-24",
    "theme": "損失回避（ファスト&スロー）",
    "metrics": {
-    "views": 126,
-    "reach": 115,
+    "views": 131,
+    "reach": 119,
     "likes": 0,
     "comments": 0,
-    "saved": 0,
+    "saved": 1,
     "shares": 0,
-    "total_interactions": 0
+    "total_interactions": 1
    },
    "error": null
   },
@@ -121,8 +121,8 @@
    "date": "2026-07-25",
    "theme": "論点スライド①休日",
    "metrics": {
-    "views": 45,
-    "reach": 30,
+    "views": 58,
+    "reach": 34,
     "likes": 0,
     "comments": 0,
     "saved": 0,
