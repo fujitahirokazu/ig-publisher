@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-07-28T22:29:32.155495Z",
+ "fetched_at": "2026-07-28T22:47:15.692417Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 9,
@@ -54,7 +54,7 @@
    "date": "2026-07-20",
    "theme": "④好意",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"At7gTM1MmKaRsLjhKMzfoO6\"}}"
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A3haH6bcGyYcQwe7q7-o6fe\"}}"
   },
   {
    "media_id": "18357294337244457",
