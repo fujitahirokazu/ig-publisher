@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-07-27T22:46:49.416683Z",
+ "fetched_at": "2026-07-28T19:29:41.780384Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 9,
@@ -24,8 +24,8 @@
    "date": "2026-07-12",
    "theme": "②一貫性",
    "metrics": {
-    "views": 81,
-    "reach": 56,
+    "views": 82,
+    "reach": 57,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -54,7 +54,7 @@
    "date": "2026-07-20",
    "theme": "④好意",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AhbcU1vWD_MZ8ySMcSWCyDM\"}}"
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AKfWl8HhZQzA8u87kAwDDAk\"}}"
   },
   {
    "media_id": "18357294337244457",
@@ -121,8 +121,8 @@
    "date": "2026-07-25",
    "theme": "論点スライド①休日",
    "metrics": {
-    "views": 58,
-    "reach": 34,
+    "views": 61,
+    "reach": 36,
     "likes": 0,
     "comments": 0,
     "saved": 0,
