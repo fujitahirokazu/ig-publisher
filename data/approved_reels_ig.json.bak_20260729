@@ -199,16 +199,6 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_tettai_v3.json"
-  },
-  {
-   "id": "2026-08-26-yoi-senryaku-shindan",
-   "theme": "診断（良い戦略、悪い戦略）",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260727_yoi_senryaku.mp4",
-   "caption": "「戦略を作れ」と言われて、目標を並べていないか。\n悪い戦略の正体は目標の羅列。願望を並べるほど力は分散する。良い戦略はまず診断——本当の障害を一つに絞ると、打ち手は自然に決まる。昔の自分は、やることを増やして戦略と呼んでいた。\n明日の一手：計画を書く前に「一番の障害は何か」を一文で書く。\n\n#ビジネス #仕事術 #良い戦略悪い戦略 #戦略 #意思決定 #思考法 #マネジメント #キャリア",
-   "scheduled_date": "2026-08-26",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "_PENDING_20260727_ryoi-senryaku_shindan.json"
   }
  ]
 }
