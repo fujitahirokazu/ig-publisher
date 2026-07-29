@@ -209,6 +209,16 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "_PENDING_20260727_ryoi-senryaku_shindan.json"
+  },
+  {
+   "id": "2026-08-13-ronten-kuruma",
+   "theme": "論点スライドkuruma",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_kuruma_v3.mp4",
+   "caption": "「その車、売るべき？」を、なんとなくでなく論点で。\nそもそも、まだ要る？／待てば高く売れる？／持ち続ける負担は？。\n売る。必要な日は借りれば足りる。浮いた分は別に回す。\n明日の一手：車は「いくらで売れるか」より先に、「そもそも要るか」から解く。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+   "scheduled_date": "2026-08-13",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "cfg_kuruma_v3.json"
   }
  ]
 }
