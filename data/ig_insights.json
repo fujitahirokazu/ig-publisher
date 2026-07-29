@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-07-29T19:29:35.416939Z",
+ "fetched_at": "2026-07-29T22:44:23.210130Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 9,
@@ -113,8 +113,8 @@
    "date": "2026-07-22",
    "theme": "イシュー度（イシューからはじめよ）",
    "metrics": {
-    "views": 35,
-    "reach": 25,
+    "views": 36,
+    "reach": 26,
     "likes": 0,
     "comments": 0,
     "saved": 0,
