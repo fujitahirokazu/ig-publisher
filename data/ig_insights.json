@@ -1,11 +1,13 @@
 {
- "fetched_at": "2026-07-29T00:29:30.834093Z",
+ "fetched_at": "2026-07-29T03:29:31.789505Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 9,
+ "media_indexed": 100,
  "reels": [
   {
    "media_id": "18110154967953461",
+   "media_id_original": "18110154967953461",
    "date": "2026-07-10",
    "theme": "①返報性",
    "metrics": {
@@ -17,10 +19,12 @@
     "shares": 0,
     "total_interactions": 2
    },
-   "error": null
+   "error": null,
+   "note": null
   },
   {
    "media_id": "17986557068843485",
+   "media_id_original": "17986557068843485",
    "date": "2026-07-12",
    "theme": "②一貫性",
    "metrics": {
@@ -32,10 +36,12 @@
     "shares": 0,
     "total_interactions": 0
    },
-   "error": null
+   "error": null,
+   "note": null
   },
   {
    "media_id": "18325501666276377",
+   "media_id_original": "18325501666276377",
    "date": "2026-07-14",
    "theme": "③社会的証明",
    "metrics": {
@@ -47,17 +53,29 @@
     "shares": 0,
     "total_interactions": 0
    },
-   "error": null
+   "error": null,
+   "note": null
   },
   {
-   "media_id": "18105882722038453",
+   "media_id": "17876232915685321",
+   "media_id_original": "18105882722038453",
    "date": "2026-07-20",
    "theme": "④好意",
-   "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18105882722038453' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AHka3NefDKbTZhkxH5KN-jm\"}}"
+   "metrics": {
+    "views": 43,
+    "reach": 28,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": "media_id を caption一致 で引き直した"
   },
   {
    "media_id": "18357294337244457",
+   "media_id_original": "18357294337244457",
    "date": "2026-07-20",
    "theme": "⑤権威",
    "metrics": {
@@ -69,10 +87,12 @@
     "shares": 0,
     "total_interactions": 2
    },
-   "error": null
+   "error": null,
+   "note": null
   },
   {
    "media_id": "18023849987852356",
+   "media_id_original": "18023849987852356",
    "date": "2026-07-20",
    "theme": "⑥希少性",
    "metrics": {
@@ -84,10 +104,12 @@
     "shares": 0,
     "total_interactions": 0
    },
-   "error": null
+   "error": null,
+   "note": null
   },
   {
    "media_id": "18091239017568445",
+   "media_id_original": "18091239017568445",
    "date": "2026-07-22",
    "theme": "イシュー度（イシューからはじめよ）",
    "metrics": {
@@ -99,10 +121,12 @@
     "shares": 0,
     "total_interactions": 0
    },
-   "error": null
+   "error": null,
+   "note": null
   },
   {
    "media_id": "18083480396409297",
+   "media_id_original": "18083480396409297",
    "date": "2026-07-24",
    "theme": "損失回避（ファスト&スロー）",
    "metrics": {
@@ -114,22 +138,25 @@
     "shares": 0,
     "total_interactions": 1
    },
-   "error": null
+   "error": null,
+   "note": null
   },
   {
    "media_id": "18383107135200731",
+   "media_id_original": "18383107135200731",
    "date": "2026-07-25",
    "theme": "論点スライド①休日",
    "metrics": {
-    "views": 61,
-    "reach": 36,
+    "views": 63,
+    "reach": 37,
     "likes": 0,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
    },
-   "error": null
+   "error": null,
+   "note": null
   }
  ]
 }
