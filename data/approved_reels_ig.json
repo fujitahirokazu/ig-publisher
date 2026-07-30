@@ -261,6 +261,16 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_suuji_v3.json"
+  },
+  {
+   "id": "2026-08-28-shippai-kagaku",
+   "theme": "ブラックボックス思考（失敗の科学）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260731_shippai_kagaku.mp4",
+   "caption": "失敗が減らないのは、能力の問題じゃない。\nミスを“恥”として隠す文化では失敗のデータが残らず、学べないから繰り返す——『失敗の科学』。対照は航空業界。事故のたびに記録を公開し、業界全体で原因を潰す仕組みがある。怖いのは認知的不協和。有能な人ほど「自分は間違っていない」と事実の方をねじ曲げる。\n明日の一手：ミスが出たら「誰が」を封印し、「何が起きたか」だけを書き出す。\n\n#ビジネス #仕事術 #失敗の科学 #マネジメント #意思決定 #思考法 #組織 #キャリア",
+   "scheduled_date": "2026-08-28",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "_PENDING_20260731_shippai_kagaku.json"
   }
  ]
 }
