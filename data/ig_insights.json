@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-07-29T22:44:23.210130Z",
+ "fetched_at": "2026-07-30T19:29:41.422473Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 9,
- "media_indexed": 100,
+ "count": 10,
+ "media_indexed": 101,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -79,8 +79,8 @@
    "date": "2026-07-20",
    "theme": "⑤権威",
    "metrics": {
-    "views": 182,
-    "reach": 168,
+    "views": 183,
+    "reach": 169,
     "likes": 0,
     "comments": 0,
     "saved": 2,
@@ -96,8 +96,8 @@
    "date": "2026-07-20",
    "theme": "⑥希少性",
    "metrics": {
-    "views": 50,
-    "reach": 39,
+    "views": 51,
+    "reach": 40,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -113,8 +113,8 @@
    "date": "2026-07-22",
    "theme": "イシュー度（イシューからはじめよ）",
    "metrics": {
-    "views": 36,
-    "reach": 26,
+    "views": 37,
+    "reach": 27,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -130,8 +130,8 @@
    "date": "2026-07-24",
    "theme": "損失回避（ファスト&スロー）",
    "metrics": {
-    "views": 132,
-    "reach": 119,
+    "views": 133,
+    "reach": 120,
     "likes": 0,
     "comments": 0,
     "saved": 1,
@@ -148,7 +148,24 @@
    "theme": "論点スライド①休日",
    "metrics": {
     "views": 66,
-    "reach": 39,
+    "reach": 40,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18137387731505351",
+   "media_id_original": "18137387731505351",
+   "date": "2026-07-30",
+   "theme": "論点スライド②転職",
+   "metrics": {
+    "views": 128,
+    "reach": 112,
     "likes": 0,
     "comments": 0,
     "saved": 0,
