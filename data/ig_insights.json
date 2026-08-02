@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-01T22:41:33.836061Z",
+ "fetched_at": "2026-08-02T22:42:26.462704Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 10,
- "media_indexed": 101,
+ "count": 11,
+ "media_indexed": 102,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -147,8 +147,8 @@
    "date": "2026-07-25",
    "theme": "論点スライド①休日",
    "metrics": {
-    "views": 72,
-    "reach": 43,
+    "views": 73,
+    "reach": 44,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -164,8 +164,25 @@
    "date": "2026-07-30",
    "theme": "論点スライド②転職",
    "metrics": {
-    "views": 146,
-    "reach": 125,
+    "views": 147,
+    "reach": 126,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18103507586520083",
+   "media_id_original": "18103507586520083",
+   "date": "2026-08-02",
+   "theme": "論点スライド③会議",
+   "metrics": {
+    "views": 19,
+    "reach": 11,
     "likes": 0,
     "comments": 0,
     "saved": 0,
