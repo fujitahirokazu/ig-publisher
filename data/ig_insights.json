@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-02T22:42:26.462704Z",
+ "fetched_at": "2026-08-03T22:47:01.936579Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 11,
- "media_indexed": 102,
+ "count": 12,
+ "media_indexed": 103,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -113,8 +113,8 @@
    "date": "2026-07-22",
    "theme": "イシュー度（イシューからはじめよ）",
    "metrics": {
-    "views": 37,
-    "reach": 27,
+    "views": 38,
+    "reach": 28,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -130,8 +130,8 @@
    "date": "2026-07-24",
    "theme": "損失回避（ファスト&スロー）",
    "metrics": {
-    "views": 133,
-    "reach": 120,
+    "views": 134,
+    "reach": 121,
     "likes": 0,
     "comments": 0,
     "saved": 1,
@@ -147,8 +147,8 @@
    "date": "2026-07-25",
    "theme": "論点スライド①休日",
    "metrics": {
-    "views": 73,
-    "reach": 44,
+    "views": 75,
+    "reach": 46,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -181,8 +181,25 @@
    "date": "2026-08-02",
    "theme": "論点スライド③会議",
    "metrics": {
-    "views": 19,
-    "reach": 11,
+    "views": 27,
+    "reach": 19,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18432857419133056",
+   "media_id_original": "18432857419133056",
+   "date": "2026-08-03",
+   "theme": "論点スライドT02限界利益",
+   "metrics": {
+    "views": 23,
+    "reach": 18,
     "likes": 0,
     "comments": 0,
     "saved": 0,
