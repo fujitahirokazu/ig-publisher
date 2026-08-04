@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-04T10:29:37.948988Z",
+ "fetched_at": "2026-08-04T22:29:38.922356Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 12,
- "media_indexed": 103,
+ "count": 13,
+ "media_indexed": 104,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -147,7 +147,7 @@
    "date": "2026-07-25",
    "theme": "論点スライド①休日",
    "metrics": {
-    "views": 75,
+    "views": 76,
     "reach": 46,
     "likes": 0,
     "comments": 0,
@@ -200,6 +200,23 @@
    "metrics": {
     "views": 40,
     "reach": 36,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18065178824759981",
+   "media_id_original": "18065178824759981",
+   "date": "2026-08-04",
+   "theme": "論点スライドT03歩留まり",
+   "metrics": {
+    "views": 15,
+    "reach": 11,
     "likes": 0,
     "comments": 0,
     "saved": 0,
