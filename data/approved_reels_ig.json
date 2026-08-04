@@ -1,409 +1,411 @@
 {
- "series": "影響力の武器（隔日）",
- "reels": [
-  {
-   "id": "2026-07-10-henpousei",
-   "theme": "①返報性",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel01_eikyoryoku_henpousei.mp4",
-   "caption": "先に与える人が、最後に一番\"通す\"。\n交渉で譲歩を引き出すコツは、こちらが先に小さく譲ること。\n明日の一手：頼む前に、相手に1つ差し出す。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #マネジメント #キャリア #心理学",
-   "scheduled_date": "2026-07-10",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18110154967953461",
-   "posted_at": "2026-07-10T17:19:35+09:00"
-  },
-  {
-   "id": "2026-07-12-commitment",
-   "theme": "②一貫性",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel02_commitment.mp4",
-   "caption": "人は\"言った自分\"に縛られる。\n会議で合意を取るなら、いきなり本題でなく小さなYESから積む。\n明日の一手：本題の前に、相手が\"はい\"と言える確認を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #会議 #マネジメント #キャリア #心理学",
-   "scheduled_date": "2026-07-12",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "17986557068843485",
-   "posted_at": "2026-07-12T20:06:12+09:00"
-  },
-  {
-   "id": "2026-07-14-socialproof",
-   "theme": "③社会的証明",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel03_socialproof.mp4",
-   "caption": "「みんなやってます」が刺さる時と、逆に嘘くさくなる時がある。差は1つ——\"相手に似た人\"の例か。\n明日の一手：事例は\"相手と同じ立場の人\"のものを出す。\n\n#ビジネス #仕事術 #影響力の武器 #マーケティング #キャリア #心理学",
-   "scheduled_date": "2026-07-14",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18325501666276377",
-   "posted_at": "2026-07-14T20:19:36+09:00"
-  },
-  {
-   "id": "2026-07-16-liking",
-   "theme": "④好意",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel04_liking.mp4",
-   "caption": "中身が同じでも\"誰が言うか\"で通り方が変わる。好意は作れる——共通点を1つ見つけるだけ。\n明日の一手：商談の最初の30秒で、相手との共通点を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #営業 #キャリア #心理学",
-   "scheduled_date": "2026-07-16",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18105882722038453",
-   "posted_at": "2026-07-20T21:10:43+09:00"
-  },
-  {
-   "id": "2026-07-18-authority",
-   "theme": "⑤権威",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel05_authority.mp4",
-   "caption": "権威は\"出しすぎ\"で逆効果になる。効くのは 権威 × 誠実さ。「分からない」を言える人ほど強い。\n明日の一手：根拠の直後に\"前提\"を一言添える。\n\n#ビジネス #仕事術 #影響力の武器 #リーダーシップ #キャリア #心理学",
-   "scheduled_date": "2026-07-18",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18357294337244457",
-   "posted_at": "2026-07-20T21:11:23+09:00"
-  },
-  {
-   "id": "2026-07-20-scarcity",
-   "theme": "⑥希少性",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel06_scarcity.mp4",
-   "caption": "「いつでもできる」は「やらない」と同じ。締切は、相手のためにも要る。\n明日の一手：提案に\"いつまでに決めると何が得か\"を1行。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #キャリア #心理学",
-   "scheduled_date": "2026-07-20",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18023849987852356",
-   "posted_at": "2026-07-20T21:12:03+09:00"
-  },
-  {
-   "id": "2026-07-22-issue-do",
-   "theme": "イシュー度（イシューからはじめよ）",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260713_issue_kara.mp4",
-   "caption": "忙しいのに成果が出ない——原因は「解き方」じゃなく、「解くべき問題」の選び損ね。\n昔の自分は来た順に片づけて満足していた。量は出ても刺さらない。\n明日の一手：着手前に「これは今、解く価値があるか？」と一度問う。\n\n#ビジネス #仕事術 #イシューからはじめよ #論点思考 #生産性 #キャリア #マネジメント",
-   "scheduled_date": "2026-07-22",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18091239017568445",
-   "posted_at": "2026-07-22T20:42:45+09:00"
-  },
-  {
-   "id": "2026-07-24-loss-aversion",
-   "theme": "損失回避（ファスト&スロー）",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260715_loss_aversion.mp4",
-   "caption": "「得する話」より「損する話」に、人は強く反応する——これが損失回避。\nだから「お得です」の一点押しは意外と動かない。人が動くのは“損を避けたい”とき。\n明日の一手：提案に“今動かないと何を失うか”を1行だけ添える。\n\n#ビジネス #仕事術 #ファストアンドスロー #行動経済学 #損失回避 #交渉術 #キャリア #心理学",
-   "scheduled_date": "2026-07-24",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18083480396409297",
-   "posted_at": "2026-07-24T20:37:15+09:00"
-  },
-  {
-   "id": "2026-07-23-ronten-kyujitsu",
-   "theme": "論点スライド①休日",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten01_kyujitsu_voiced_48.mp4",
-   "caption": "「この休日、何に使う？」を、気分でなく論点で。\n回復はどれだけ要るか／今日でないと駄目か／余った時間は何に投資するか。回復は満ちたら頭打ち——半日で回復し、残りは中長期の学びに投資する。\n明日の一手：休みは「休む」で終わらせず、満ちたら投資に回す。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #休養 #セルフマネジメント #自己投資 #生産性 #キャリア",
-   "scheduled_date": "2026-07-25",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18383107135200731",
-   "posted_at": "2026-07-25T20:03:17+09:00"
-  },
-  {
-   "id": "2026-07-30-ronten-tenshoku",
-   "theme": "論点スライド②転職",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten02_tenshoku_voiced_48.mp4",
-   "caption": "「転職すべき？」を、勢いでなく論点で。\n何を基準に決めるか（成長か年収か）／不満は現職で解けるか／動いて得る便益はコストを超えるか。健康・安全に問題があれば即動く。今回は、今は動かない——半年で変わらねば動く。\n明日の一手：転職は「不満から逃げる」でなく、便益がコストを超えるかで決める。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #転職 #キャリア #仕事術 #意思決定",
-   "scheduled_date": "2026-07-30",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18137387731505351",
-   "posted_at": "2026-07-30T20:46:44+09:00"
-  },
-  {
-   "id": "2026-08-02-ronten-kaigi",
-   "theme": "論点スライド③会議",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten03_kaigi_voiced_48.mp4",
-   "caption": "「その会議、出るべき？」を、惰性でなく論点で。\n自分が「出す」価値があるか／「受ける」価値（その場でしか得ない学び・空気）があるか／居ないコスト（欠席の政治＋空く30分）は大きいか。全部が事前と後追いで足りるなら、出ない——空いた30分を作業に回す。\n明日の一手：会議は「呼ばれたから」でなく、取り返せない価値があるかで決める。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #会議術 #タイムマネジメント #生産性 #仕事術",
-   "scheduled_date": "2026-08-02",
-   "post_time": "19:00",
-   "status": "posted",
-   "media_id": "18103507586520083",
-   "posted_at": "2026-08-02T20:11:47+09:00"
-  },
-  {
-   "id": "2026-08-05-ronten-sasoi",
-   "theme": "論点スライド④誘い",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten04_sasoi_voiced_48.mp4",
-   "caption": "「その誘い、行くべき？」を、空気でなく論点で。\n行って得るものは何か／断ると何を失うか（関係）／行くコストは見合うか。中身が薄く関係も保てるなら、断る。ただし大事な相手・一度きりなら行く。\n明日の一手：誘いは「行くコスト」だけでなく、断るコスト（関係）も秤に載せる。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #人間関係 #時間術 #セルフマネジメント",
-   "scheduled_date": "2026-08-05",
-   "post_time": "19:00",
-   "status": "pending"
-  },
-  {
-   "id": "2026-08-08-ronten-kaimono",
-   "theme": "論点スライド⑤買い物",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten05_kaimono_voiced_48.mp4",
-   "caption": "「この高いブレンダー、買う？」を、勢いでなく論点で。\n他の手段で代替できないか／買っても使う頻度はあるか（死蔵しないか）／この価格帯が要るか（安い版で足りないか）。代替で足り、使うのも月数回なら、買わない。毎日使うなら買う。\n明日の一手：高い買い物は「代替→頻度→グレード」の順に必要性を削る。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #節約 #買い物 #意思決定 #ミニマリスト",
-   "scheduled_date": "2026-08-08",
-   "post_time": "19:00",
-   "status": "pending"
-  },
-  {
-   "id": "2026-08-11-ronten-sumu",
-   "theme": "論点スライド⑥この家",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten06_sumu_voiced_48.mp4",
-   "caption": "「この家、更新すべき？」を、なんとなくでなく論点で。\nその不満は家が原因か（引っ越せば消えるか）／移る損得は／便益は移る純コストに見合うか。不満は移らず減らせ、便益もコストに満たないなら、更新する。\n明日の一手：「なんとなく引っ越したい」は、不満の原因が家にあるかを見極めていない。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #引っ越し #賃貸 #家計 #意思決定",
-   "scheduled_date": "2026-08-11",
-   "post_time": "19:00",
-   "status": "pending"
-  },
-  {
-   "id": "2026-08-14-ronten-gym",
-   "theme": "論点スライド⑦ジム",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten07_gym_voiced_48.mp4",
-   "caption": "「ジムに通うべき？」を、なんとなくでなく論点で。\n通って何を得たいか（目的）／ジムが最適な手段か（家トレ・外との比較）／続けられて見合うか（通える動線・会費）。目的・手段・動線がそろうなら、通う。続かないなら家トレに。\n明日の一手：幽霊会員は、目的と続く動線のどちらかが無い。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #筋トレ #習慣化 #健康 #自己投資",
-   "scheduled_date": "2026-08-14",
-   "post_time": "19:00",
-   "status": "pending"
-  },
-  {
-   "id": "2026-08-17-ronten-sns",
-   "theme": "論点スライド⑧SNS",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten08_sns_voiced_48.mp4",
-   "caption": "「このSNS、続けるべき？」を、惰性でなく論点で。\n何を指標に測るか（フォロワー数でなく指名・保存・DM）／その指標で効いているか（3ヶ月ゼロなら撤退）／続ける負担はコストに見合うか。効いていて負担も軽いなら、続ける。\n明日の一手：SNSはフォロワー数でなく、指名で測って続けるか決める。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #SNS運用 #発信 #個人ブランド #マーケティング",
-   "scheduled_date": "2026-08-17",
-   "post_time": "19:00",
-   "status": "pending"
-  },
-  {
-   "id": "2026-08-20-ronten-fukugyo",
-   "theme": "論点スライド⑨副業",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten09_fukugyo_voiced_48.mp4",
-   "caption": "「この副業、始めるべき？」を、勢いでなく論点で。\nそもそも許されているか（就業規則・禁止なら始めない）／本業を削らないか／稼ぎと学びは割に合うか／畳みやすいか。まず規則を確認し、すべて満たせば始める。\n明日の一手：副業は稼ぎより先に「そもそも許されているか」から解く。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #副業 #働き方 #キャリア #意思決定",
-   "scheduled_date": "2026-08-20",
-   "post_time": "19:00",
-   "status": "pending"
-  },
-  {
-   "id": "2026-08-22-thegoal-toc",
-   "theme": "制約理論（ザ・ゴール）",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260722_thegoal_toc.mp4",
-   "caption": "「全員フル稼働」なのに成果が増えない——原因は“一番遅い1か所”。\n仕事全体の速さは最も遅い工程（ボトルネック）で決まる。手前を速くしてもそこで詰まるだけ。打ち手は逆張りで、遅い1か所に人と時間を集中する。\n明日の一手：毎回ここで詰まる工程を1つだけ書き出し、直すのはそこだけにする。\n\n#ビジネス #仕事術 #ザゴール #制約理論 #ボトルネック #生産性 #マネジメント #思考法",
-   "scheduled_date": "2026-08-22",
-   "post_time": "19:00",
-   "status": "pending"
-  },
-  {
-   "id": "2026-08-24-essentialism",
-   "theme": "エッセンシャル思考（より少なく、しかしより良く）",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260724_essentialism.mp4",
-   "caption": "「全部大事」は「全部どうでもいい」と同じ。\n頑張る量を増やすほど力が分散し、どれも中途半端に終わる。本質的な“少数”に絞った時だけ成果は突き抜ける。危険なのは「まあまあ大事」——即やる以外は思い切って手放す。\n明日の一手：ToDoから「まあまあ大事」を1つ消す。\n\n#エッセンシャル思考 #より少なくしかしより良く #意思決定 #優先順位 #仕事術 #生産性 #ビジネス書 #名著 #思考法",
-   "scheduled_date": "2026-08-24",
-   "post_time": "19:00",
-   "status": "pending"
-  },
-  {
-   "id": "2026-08-15-ronten-tettai",
-   "theme": "論点スライド⑪撤退",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_tettai_v3.mp4",
-   "caption": "「この案件、やめるべき？」を、なんとなくでなく論点で。\n使った分は判断材料？／今から先、得は出る？／やめるコストは？。\nやめる。使った分は取り戻せない。残る力を次に回す。\n明日の一手：撤退は「いくら使ったか」でなく、「今日ゼロから始めるか」で決める。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-15",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_tettai_v3.json"
-  },
-  {
-   "id": "2026-08-26-yoi-senryaku-shindan",
-   "theme": "診断（良い戦略、悪い戦略）",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260727_yoi_senryaku.mp4",
-   "caption": "「戦略を作れ」と言われて、目標を並べていないか。\n悪い戦略の正体は目標の羅列。願望を並べるほど力は分散する。良い戦略はまず診断——本当の障害を一つに絞ると、打ち手は自然に決まる。昔の自分は、やることを増やして戦略と呼んでいた。\n明日の一手：計画を書く前に「一番の障害は何か」を一文で書く。\n\n#ビジネス #仕事術 #良い戦略悪い戦略 #戦略 #意思決定 #思考法 #マネジメント #キャリア",
-   "scheduled_date": "2026-08-26",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "_PENDING_20260727_ryoi-senryaku_shindan.json"
-  },
-  {
-   "id": "2026-08-13-ronten-kuruma",
-   "theme": "論点スライドkuruma",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_kuruma_v3.mp4",
-   "caption": "「その車、売るべき？」を、なんとなくでなく論点で。\nそもそも、まだ要る？／待てば高く売れる？／持ち続ける負担は？。\n売る。必要な日は借りれば足りる。浮いた分は別に回す。\n明日の一手：車は「いくらで売れるか」より先に、「そもそも要るか」から解く。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-13",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_kuruma_v3.json"
-  },
-  {
-   "id": "2026-08-21-ronten-soudan",
-   "theme": "論点スライド⑫上申",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_soudan_v3.mp4",
-   "caption": "「この判断、上司に上げるべき？」を、なんとなくでなく論点で。\n自分の権限で決められる？／決定を遅らせてよい？／上司に上げると結論は変わる？。\n上司に上げる。判断を渡すのではなく、材料を渡す。\n明日の一手：上司に上げるかは「難しさ」でなく、「間違えたとき自分で戻せるか」で決める。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-21",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_soudan_v3.json"
-  },
-  {
-   "id": "2026-08-17-ronten-makaseru",
-   "theme": "論点スライド⑬委譲",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_makaseru_v3.mp4",
-   "caption": "「この作業、部下に任せるべき？」を、なんとなくでなく論点で。\n教える時間は取り戻せる？／失敗しても戻せる？／空いた時間を何に使う？。\n部下に任せる。速さを取るのでなく、回数を減らす。\n明日の一手：任せるかは「自分が速いか」でなく、「戻せない失敗が起きるか」で決める。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-17",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_makaseru_v3.json"
-  },
-  {
-   "id": "2026-08-19-ronten-shuuri",
-   "theme": "論点スライド⑭修理",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_shuuri_v3.mp4",
-   "caption": "「この家電、修理すべき？」を、なんとなくでなく論点で。\n修理代はいくら？／あと何年使える？／使えない間、どうする？。\n修理しない。直す価値は愛着でなく、残り寿命で決まる。\n明日の一手：修理か買い替えかは、修理代を本体価格と残り寿命の両方に当ててから決める。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-19",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_shuuri_v3.json"
-  },
-  {
-   "id": "2026-08-23-ronten-suuji",
-   "theme": "論点スライド⑮数字",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_suuji_v3.mp4",
-   "caption": "「この数字、そのまま使うべき？」を、なんとなくでなく論点で。\n何を数えた数字？／この数字で判断が変わる？／同じ数字が別の所にある？。\nそのまま使わない。数える範囲を先に書いてから使う。\n明日の一手：数字を使う前に「何を数えたか」を1行で書く。書けないなら、まだ答えではない。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-23",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_suuji_v3.json"
-  },
-  {
-   "id": "2026-08-28-shippai-kagaku",
-   "theme": "ブラックボックス思考（失敗の科学）",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260731_shippai_kagaku.mp4",
-   "caption": "失敗が減らないのは、能力の問題じゃない。\nミスを“恥”として隠す文化では失敗のデータが残らず、学べないから繰り返す——『失敗の科学』。対照は航空業界。事故のたびに記録を公開し、業界全体で原因を潰す仕組みがある。怖いのは認知的不協和。有能な人ほど「自分は間違っていない」と事実の方をねじ曲げる。\n明日の一手：ミスが出たら「誰が」を封印し、「何が起きたか」だけを書き出す。\n\n#ビジネス #仕事術 #失敗の科学 #マネジメント #意思決定 #思考法 #組織 #キャリア",
-   "scheduled_date": "2026-08-28",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "_PENDING_20260731_shippai_kagaku.json"
-  },
-  {
-   "id": "2026-08-03-ronten-genkai_rieki",
-   "theme": "論点スライドT02限界利益",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_genkai_rieki_v3.mp4",
-   "caption": "売上を追うほど、赤字が増えることがある。\n売っても粗利が残らない商品は、売るほど損が出る。見るべきは売上でなく、1件あたりに残る利益。残らない商品は、値上げか撤退の二択しかない。\n明日の一手：主力商品の1件あたり利益を出す。\n『経営指標大全』｜限界利益\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-03",
-   "post_time": "19:00",
-   "status": "posted",
-   "source_cfg": "cfg_genkai_rieki_v3.json",
-   "media_id": "18432857419133056",
-   "posted_at": "2026-08-03T21:51:29+09:00"
-  },
-  {
-   "id": "2026-08-04-ronten-budomari",
-   "theme": "論点スライドT03歩留まり",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_budomari_v3.mp4",
-   "caption": "受注が増えないのは、頑張る場所を間違えている。\n商談化5%の入口を倍にしても、出口はほぼ動かない。各段の通過率を並べると、落ちている一段が見える。そこだけ直すと、同じ努力で出口の数が変わる。\n明日の一手：段ごとの通過率を並べて書く。\n『THE MODEL』｜歩留まり\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-04",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_budomari_v3.json"
-  },
-  {
-   "id": "2026-08-06-ronten-vji_kaifuku",
-   "theme": "論点スライドT04戦う場所",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_vji_kaifuku_v3.mp4",
-   "caption": "戦略の失敗は、現場の頑張りでは取り返せない。\n勝てない場所で努力を重ねると、疲弊だけが残る。だから最初に、戦う場所そのものを疑う。撤退は敗北ではなく、勝てる場所へ資源を移す判断。\n明日の一手：勝てない前提を1つ言葉にする。\n『V字回復の経営』｜戦略と現場\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-06",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_vji_kaifuku_v3.json"
-  },
-  {
-   "id": "2026-08-09-ronten-fukakachi",
-   "theme": "論点スライドT05付加価値",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_fukakachi_v3.mp4",
-   "caption": "忙しさの正体は、価値を生まない作業の山だ。\n作業は、価値を生むものと生まないものに割れる。生まない側は、減らすか止めるかしか選択肢がない。効率化する前に、やめる作業を決めるほうが速い。\n明日の一手：今日の作業を2種類に割る。\n『最強の業務改革』｜付加価値\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-09",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_fukakachi_v3.json"
-  },
-  {
-   "id": "2026-08-10-ronten-8020_atari",
-   "theme": "論点スライドT06当たり",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_8020_atari_v3.mp4",
-   "caption": "全部調べてから考える人は、いつも間に合わない。\nできる人は先に答えの見当をつけ、そこだけ調べる。見当が外れても、外れたと分かるだけで前に進む。網羅は目的でなく、意思決定に足る精度が目的。\n明日の一手：調べる前に仮の答えを書く。\n『完全無欠の問題解決』｜当たりをつける\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-10",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_8020_atari_v3.json"
-  },
-  {
-   "id": "2026-08-12-ronten-enyaku_kinou",
-   "theme": "論点スライドT07演繹帰納",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_enyaku_kinou_v3.mp4",
-   "caption": "話が通らない人は、2つの論法を混ぜている。\nルールから結論を出すのが演繹、事例から出すのが帰納。帰納は事例が偏ると崩れ、演繹は前提が崩れると全部崩れる。どちらで話しているかを言えば、反論の的が定まる。\n明日の一手：主張の型を自分で名指しする。\n『論理的思考のコアスキル』｜演繹と帰納\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-12",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_enyaku_kinou_v3.json"
-  },
-  {
-   "id": "2026-08-16-ronten-torihiki_hiyou",
-   "theme": "論点スライドT09取引費用",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_torihiki_hiyou_v3.mp4",
-   "caption": "内製と外注の分かれ目は、価格ではない。\n決め手は、交渉と監視にかかる見えないコスト。任せるほど安いが、任せるほど確認の手間が増える。確認コストが価格差を超えたら、内に戻すのが正しい。\n明日の一手：外注1件の確認時間を測る。\n『世界標準の経営理論』｜取引費用\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-16",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_torihiki_hiyou_v3.json"
-  },
-  {
-   "id": "2026-08-18-ronten-segmentation",
-   "theme": "論点スライドT11区画",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_segmentation_v3.mp4",
-   "caption": "全員に売ろうとすると、誰にも選ばれない。\n市場を切り分けると、自社が勝てる区画が見える。勝てる区画で1位を取ると、そこから横に広がる。最初から全体で戦うのは、資源の薄い分散になる。\n明日の一手：勝てる区画を1つ名指しする。\n『戦略プロフェッショナル』｜セグメンテーション\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-18",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_segmentation_v3.json"
-  },
-  {
-   "id": "2026-08-25-ronten-volume_source",
-   "theme": "論点スライドT08源泉",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_volume_source_v3.mp4",
-   "caption": "売上を増やす前に、誰から奪うのかを決める。\n新しい需要を作るのか、競合から取るのか、既存客に増やすのか。この3つは、必要な打ち手がまったく別になる。決めずに広告を打つと、全方向に薄く効いて終わる。\n明日の一手：伸ばす分の出どころを1つに決める。\n『マーケティング ビッグ・ピクチャー』｜ボリュームの源泉\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-25",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_volume_source_v3.json"
-  },
-  {
-   "id": "2026-08-27-ronten-leverage",
-   "theme": "論点スライドT10テコ",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_leverage_v3.mp4",
-   "caption": "管理職の1時間は、部下の何十時間を動かす。\nだから自分の作業より、他人が動く仕組みに時間を使う。手戻りを止める一言は、あとの数十時間を救う。逆に自分で巻き取るほど、全体の出力は落ちる。\n明日の一手：一番テコが効く30分を先に置く。\n『HIGH OUTPUT MANAGEMENT』｜テコ入れ\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-27",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_leverage_v3.json"
-  },
-  {
-   "id": "2026-08-29-ronten-ronten_ugoku",
-   "theme": "論点スライドT12論点は動く",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_ronten_ugoku_v3.mp4",
-   "caption": "上司の問いに答えたのに、なぜか通らない。\n答えるべき問いは、会議の途中で動いているからだ。最初の問いに忠実な資料が、いちばん外す。だから議論の節目で、問いを声に出して確認する。\n明日の一手：今日の会議で問いを言い直す。\n『論点思考』｜論点は動く\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-29",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_ronten_ugoku_v3.json"
-  },
-  {
-   "id": "2026-08-30-ronten-dainiryoiki",
-   "theme": "論点スライドT01第二領域",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_dainiryoiki_v3.mp4",
-   "caption": "予定が埋まっている人ほど、成果が出ない。\n『7つの習慣』の第二領域。緊急でないが重要な仕事のこと。急ぐ仕事は勝手に予定へ入る。重要な仕事は自分で入れないと消える。会議も返信も緊急。仕組みを直す時間だけが、誰にも呼ばれない。\n明日の一手：来週の予定に、緊急でない90分を先に置く。\n『7つの習慣』｜第二領域\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
-   "scheduled_date": "2026-08-30",
-   "post_time": "19:00",
-   "status": "pending",
-   "source_cfg": "cfg_dainiryoiki_v3.json"
-  },
-  {
-   "id": "2026-09-01-auto-giver",
-   "theme": "GIVE & TAKE／ギバーの分岐",
-   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260804_giver.mp4",
-   "caption": "成果が最下位の人と、最上位の人は、同じタイプだった。\n人に与える側＝ギバー。この本が示すのは、ギバーが下にも上にも固まるという事実。分けたのは与えるかどうかではなく、自分の時間に枠を持っているかどうか。枠のないギバーは全部引き受け、自分の仕事だけが終わらない。私も何度もやった。\n明日の一手：助ける相手を1人に絞り、使う時間を先に決める。\n『GIVE & TAKE』｜ギバーの分岐\n型と全事例はプロフィールのリンクに。\n\n#思考法 #仕事術 #意思決定 #マネジメント #ビジネス書",
-   "scheduled_date": "2026-09-01",
-   "post_time": "19:00",
-   "status": "pending"
-  }
- ]
+  "series": "影響力の武器（隔日）",
+  "reels": [
+    {
+      "id": "2026-07-10-henpousei",
+      "theme": "①返報性",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel01_eikyoryoku_henpousei.mp4",
+      "caption": "先に与える人が、最後に一番\"通す\"。\n交渉で譲歩を引き出すコツは、こちらが先に小さく譲ること。\n明日の一手：頼む前に、相手に1つ差し出す。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #マネジメント #キャリア #心理学",
+      "scheduled_date": "2026-07-10",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18110154967953461",
+      "posted_at": "2026-07-10T17:19:35+09:00"
+    },
+    {
+      "id": "2026-07-12-commitment",
+      "theme": "②一貫性",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel02_commitment.mp4",
+      "caption": "人は\"言った自分\"に縛られる。\n会議で合意を取るなら、いきなり本題でなく小さなYESから積む。\n明日の一手：本題の前に、相手が\"はい\"と言える確認を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #会議 #マネジメント #キャリア #心理学",
+      "scheduled_date": "2026-07-12",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "17986557068843485",
+      "posted_at": "2026-07-12T20:06:12+09:00"
+    },
+    {
+      "id": "2026-07-14-socialproof",
+      "theme": "③社会的証明",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel03_socialproof.mp4",
+      "caption": "「みんなやってます」が刺さる時と、逆に嘘くさくなる時がある。差は1つ——\"相手に似た人\"の例か。\n明日の一手：事例は\"相手と同じ立場の人\"のものを出す。\n\n#ビジネス #仕事術 #影響力の武器 #マーケティング #キャリア #心理学",
+      "scheduled_date": "2026-07-14",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18325501666276377",
+      "posted_at": "2026-07-14T20:19:36+09:00"
+    },
+    {
+      "id": "2026-07-16-liking",
+      "theme": "④好意",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel04_liking.mp4",
+      "caption": "中身が同じでも\"誰が言うか\"で通り方が変わる。好意は作れる——共通点を1つ見つけるだけ。\n明日の一手：商談の最初の30秒で、相手との共通点を1つ。\n\n#ビジネス #仕事術 #影響力の武器 #営業 #キャリア #心理学",
+      "scheduled_date": "2026-07-16",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18105882722038453",
+      "posted_at": "2026-07-20T21:10:43+09:00"
+    },
+    {
+      "id": "2026-07-18-authority",
+      "theme": "⑤権威",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel05_authority.mp4",
+      "caption": "権威は\"出しすぎ\"で逆効果になる。効くのは 権威 × 誠実さ。「分からない」を言える人ほど強い。\n明日の一手：根拠の直後に\"前提\"を一言添える。\n\n#ビジネス #仕事術 #影響力の武器 #リーダーシップ #キャリア #心理学",
+      "scheduled_date": "2026-07-18",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18357294337244457",
+      "posted_at": "2026-07-20T21:11:23+09:00"
+    },
+    {
+      "id": "2026-07-20-scarcity",
+      "theme": "⑥希少性",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/reel06_scarcity.mp4",
+      "caption": "「いつでもできる」は「やらない」と同じ。締切は、相手のためにも要る。\n明日の一手：提案に\"いつまでに決めると何が得か\"を1行。\n\n#ビジネス #仕事術 #影響力の武器 #交渉術 #キャリア #心理学",
+      "scheduled_date": "2026-07-20",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18023849987852356",
+      "posted_at": "2026-07-20T21:12:03+09:00"
+    },
+    {
+      "id": "2026-07-22-issue-do",
+      "theme": "イシュー度（イシューからはじめよ）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260713_issue_kara.mp4",
+      "caption": "忙しいのに成果が出ない——原因は「解き方」じゃなく、「解くべき問題」の選び損ね。\n昔の自分は来た順に片づけて満足していた。量は出ても刺さらない。\n明日の一手：着手前に「これは今、解く価値があるか？」と一度問う。\n\n#ビジネス #仕事術 #イシューからはじめよ #論点思考 #生産性 #キャリア #マネジメント",
+      "scheduled_date": "2026-07-22",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18091239017568445",
+      "posted_at": "2026-07-22T20:42:45+09:00"
+    },
+    {
+      "id": "2026-07-24-loss-aversion",
+      "theme": "損失回避（ファスト&スロー）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260715_loss_aversion.mp4",
+      "caption": "「得する話」より「損する話」に、人は強く反応する——これが損失回避。\nだから「お得です」の一点押しは意外と動かない。人が動くのは“損を避けたい”とき。\n明日の一手：提案に“今動かないと何を失うか”を1行だけ添える。\n\n#ビジネス #仕事術 #ファストアンドスロー #行動経済学 #損失回避 #交渉術 #キャリア #心理学",
+      "scheduled_date": "2026-07-24",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18083480396409297",
+      "posted_at": "2026-07-24T20:37:15+09:00"
+    },
+    {
+      "id": "2026-07-23-ronten-kyujitsu",
+      "theme": "論点スライド①休日",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten01_kyujitsu_voiced_48.mp4",
+      "caption": "「この休日、何に使う？」を、気分でなく論点で。\n回復はどれだけ要るか／今日でないと駄目か／余った時間は何に投資するか。回復は満ちたら頭打ち——半日で回復し、残りは中長期の学びに投資する。\n明日の一手：休みは「休む」で終わらせず、満ちたら投資に回す。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #休養 #セルフマネジメント #自己投資 #生産性 #キャリア",
+      "scheduled_date": "2026-07-25",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18383107135200731",
+      "posted_at": "2026-07-25T20:03:17+09:00"
+    },
+    {
+      "id": "2026-07-30-ronten-tenshoku",
+      "theme": "論点スライド②転職",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten02_tenshoku_voiced_48.mp4",
+      "caption": "「転職すべき？」を、勢いでなく論点で。\n何を基準に決めるか（成長か年収か）／不満は現職で解けるか／動いて得る便益はコストを超えるか。健康・安全に問題があれば即動く。今回は、今は動かない——半年で変わらねば動く。\n明日の一手：転職は「不満から逃げる」でなく、便益がコストを超えるかで決める。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #転職 #キャリア #仕事術 #意思決定",
+      "scheduled_date": "2026-07-30",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18137387731505351",
+      "posted_at": "2026-07-30T20:46:44+09:00"
+    },
+    {
+      "id": "2026-08-02-ronten-kaigi",
+      "theme": "論点スライド③会議",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten03_kaigi_voiced_48.mp4",
+      "caption": "「その会議、出るべき？」を、惰性でなく論点で。\n自分が「出す」価値があるか／「受ける」価値（その場でしか得ない学び・空気）があるか／居ないコスト（欠席の政治＋空く30分）は大きいか。全部が事前と後追いで足りるなら、出ない——空いた30分を作業に回す。\n明日の一手：会議は「呼ばれたから」でなく、取り返せない価値があるかで決める。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #会議術 #タイムマネジメント #生産性 #仕事術",
+      "scheduled_date": "2026-08-02",
+      "post_time": "19:00",
+      "status": "posted",
+      "media_id": "18103507586520083",
+      "posted_at": "2026-08-02T20:11:47+09:00"
+    },
+    {
+      "id": "2026-08-05-ronten-sasoi",
+      "theme": "論点スライド④誘い",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten04_sasoi_voiced_48.mp4",
+      "caption": "「その誘い、行くべき？」を、空気でなく論点で。\n行って得るものは何か／断ると何を失うか（関係）／行くコストは見合うか。中身が薄く関係も保てるなら、断る。ただし大事な相手・一度きりなら行く。\n明日の一手：誘いは「行くコスト」だけでなく、断るコスト（関係）も秤に載せる。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #人間関係 #時間術 #セルフマネジメント",
+      "scheduled_date": "2026-08-05",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-08-ronten-kaimono",
+      "theme": "論点スライド⑤買い物",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten05_kaimono_voiced_48.mp4",
+      "caption": "「この高いブレンダー、買う？」を、勢いでなく論点で。\n他の手段で代替できないか／買っても使う頻度はあるか（死蔵しないか）／この価格帯が要るか（安い版で足りないか）。代替で足り、使うのも月数回なら、買わない。毎日使うなら買う。\n明日の一手：高い買い物は「代替→頻度→グレード」の順に必要性を削る。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #節約 #買い物 #意思決定 #ミニマリスト",
+      "scheduled_date": "2026-08-08",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-11-ronten-sumu",
+      "theme": "論点スライド⑥この家",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten06_sumu_voiced_48.mp4",
+      "caption": "「この家、更新すべき？」を、なんとなくでなく論点で。\nその不満は家が原因か（引っ越せば消えるか）／移る損得は／便益は移る純コストに見合うか。不満は移らず減らせ、便益もコストに満たないなら、更新する。\n明日の一手：「なんとなく引っ越したい」は、不満の原因が家にあるかを見極めていない。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #引っ越し #賃貸 #家計 #意思決定",
+      "scheduled_date": "2026-08-11",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-14-ronten-gym",
+      "theme": "論点スライド⑦ジム",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten07_gym_voiced_48.mp4",
+      "caption": "「ジムに通うべき？」を、なんとなくでなく論点で。\n通って何を得たいか（目的）／ジムが最適な手段か（家トレ・外との比較）／続けられて見合うか（通える動線・会費）。目的・手段・動線がそろうなら、通う。続かないなら家トレに。\n明日の一手：幽霊会員は、目的と続く動線のどちらかが無い。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #筋トレ #習慣化 #健康 #自己投資",
+      "scheduled_date": "2026-08-14",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-17-ronten-sns",
+      "theme": "論点スライド⑧SNS",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten08_sns_voiced_48.mp4",
+      "caption": "「このSNS、続けるべき？」を、惰性でなく論点で。\n何を指標に測るか（フォロワー数でなく指名・保存・DM）／その指標で効いているか（3ヶ月ゼロなら撤退）／続ける負担はコストに見合うか。効いていて負担も軽いなら、続ける。\n明日の一手：SNSはフォロワー数でなく、指名で測って続けるか決める。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #SNS運用 #発信 #個人ブランド #マーケティング",
+      "scheduled_date": "2026-08-17",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-20-ronten-fukugyo",
+      "theme": "論点スライド⑨副業",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten09_fukugyo_voiced_48.mp4",
+      "caption": "「この副業、始めるべき？」を、勢いでなく論点で。\nそもそも許されているか（就業規則・禁止なら始めない）／本業を削らないか／稼ぎと学びは割に合うか／畳みやすいか。まず規則を確認し、すべて満たせば始める。\n明日の一手：副業は稼ぎより先に「そもそも許されているか」から解く。\n型と全9例はプロフィールのリンクに。\n\n#思考法 #論点思考 #副業 #働き方 #キャリア #意思決定",
+      "scheduled_date": "2026-08-20",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-22-thegoal-toc",
+      "theme": "制約理論（ザ・ゴール）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260722_thegoal_toc.mp4",
+      "caption": "「全員フル稼働」なのに成果が増えない——原因は“一番遅い1か所”。\n仕事全体の速さは最も遅い工程（ボトルネック）で決まる。手前を速くしてもそこで詰まるだけ。打ち手は逆張りで、遅い1か所に人と時間を集中する。\n明日の一手：毎回ここで詰まる工程を1つだけ書き出し、直すのはそこだけにする。\n\n#ビジネス #仕事術 #ザゴール #制約理論 #ボトルネック #生産性 #マネジメント #思考法",
+      "scheduled_date": "2026-08-22",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-24-essentialism",
+      "theme": "エッセンシャル思考（より少なく、しかしより良く）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260724_essentialism.mp4",
+      "caption": "「全部大事」は「全部どうでもいい」と同じ。\n頑張る量を増やすほど力が分散し、どれも中途半端に終わる。本質的な“少数”に絞った時だけ成果は突き抜ける。危険なのは「まあまあ大事」——即やる以外は思い切って手放す。\n明日の一手：ToDoから「まあまあ大事」を1つ消す。\n\n#エッセンシャル思考 #より少なくしかしより良く #意思決定 #優先順位 #仕事術 #生産性 #ビジネス書 #名著 #思考法",
+      "scheduled_date": "2026-08-24",
+      "post_time": "19:00",
+      "status": "pending"
+    },
+    {
+      "id": "2026-08-15-ronten-tettai",
+      "theme": "論点スライド⑪撤退",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_tettai_v3.mp4",
+      "caption": "「この案件、やめるべき？」を、なんとなくでなく論点で。\n使った分は判断材料？／今から先、得は出る？／やめるコストは？。\nやめる。使った分は取り戻せない。残る力を次に回す。\n明日の一手：撤退は「いくら使ったか」でなく、「今日ゼロから始めるか」で決める。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-15",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_tettai_v3.json"
+    },
+    {
+      "id": "2026-08-26-yoi-senryaku-shindan",
+      "theme": "診断（良い戦略、悪い戦略）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260727_yoi_senryaku.mp4",
+      "caption": "「戦略を作れ」と言われて、目標を並べていないか。\n悪い戦略の正体は目標の羅列。願望を並べるほど力は分散する。良い戦略はまず診断——本当の障害を一つに絞ると、打ち手は自然に決まる。昔の自分は、やることを増やして戦略と呼んでいた。\n明日の一手：計画を書く前に「一番の障害は何か」を一文で書く。\n\n#ビジネス #仕事術 #良い戦略悪い戦略 #戦略 #意思決定 #思考法 #マネジメント #キャリア",
+      "scheduled_date": "2026-08-26",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "_PENDING_20260727_ryoi-senryaku_shindan.json"
+    },
+    {
+      "id": "2026-08-13-ronten-kuruma",
+      "theme": "論点スライドkuruma",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_kuruma_v3.mp4",
+      "caption": "「その車、売るべき？」を、なんとなくでなく論点で。\nそもそも、まだ要る？／待てば高く売れる？／持ち続ける負担は？。\n売る。必要な日は借りれば足りる。浮いた分は別に回す。\n明日の一手：車は「いくらで売れるか」より先に、「そもそも要るか」から解く。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-13",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_kuruma_v3.json"
+    },
+    {
+      "id": "2026-08-21-ronten-soudan",
+      "theme": "論点スライド⑫上申",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_soudan_v3.mp4",
+      "caption": "「この判断、上司に上げるべき？」を、なんとなくでなく論点で。\n自分の権限で決められる？／決定を遅らせてよい？／上司に上げると結論は変わる？。\n上司に上げる。判断を渡すのではなく、材料を渡す。\n明日の一手：上司に上げるかは「難しさ」でなく、「間違えたとき自分で戻せるか」で決める。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-21",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_soudan_v3.json"
+    },
+    {
+      "id": "2026-08-17-ronten-makaseru",
+      "theme": "論点スライド⑬委譲",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_makaseru_v3.mp4",
+      "caption": "「この作業、部下に任せるべき？」を、なんとなくでなく論点で。\n教える時間は取り戻せる？／失敗しても戻せる？／空いた時間を何に使う？。\n部下に任せる。速さを取るのでなく、回数を減らす。\n明日の一手：任せるかは「自分が速いか」でなく、「戻せない失敗が起きるか」で決める。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-17",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_makaseru_v3.json"
+    },
+    {
+      "id": "2026-08-19-ronten-shuuri",
+      "theme": "論点スライド⑭修理",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_shuuri_v3.mp4",
+      "caption": "「この家電、修理すべき？」を、なんとなくでなく論点で。\n修理代はいくら？／あと何年使える？／使えない間、どうする？。\n修理しない。直す価値は愛着でなく、残り寿命で決まる。\n明日の一手：修理か買い替えかは、修理代を本体価格と残り寿命の両方に当ててから決める。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-19",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_shuuri_v3.json"
+    },
+    {
+      "id": "2026-08-23-ronten-suuji",
+      "theme": "論点スライド⑮数字",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_suuji_v3.mp4",
+      "caption": "「この数字、そのまま使うべき？」を、なんとなくでなく論点で。\n何を数えた数字？／この数字で判断が変わる？／同じ数字が別の所にある？。\nそのまま使わない。数える範囲を先に書いてから使う。\n明日の一手：数字を使う前に「何を数えたか」を1行で書く。書けないなら、まだ答えではない。\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-23",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_suuji_v3.json"
+    },
+    {
+      "id": "2026-08-28-shippai-kagaku",
+      "theme": "ブラックボックス思考（失敗の科学）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260731_shippai_kagaku.mp4",
+      "caption": "失敗が減らないのは、能力の問題じゃない。\nミスを“恥”として隠す文化では失敗のデータが残らず、学べないから繰り返す——『失敗の科学』。対照は航空業界。事故のたびに記録を公開し、業界全体で原因を潰す仕組みがある。怖いのは認知的不協和。有能な人ほど「自分は間違っていない」と事実の方をねじ曲げる。\n明日の一手：ミスが出たら「誰が」を封印し、「何が起きたか」だけを書き出す。\n\n#ビジネス #仕事術 #失敗の科学 #マネジメント #意思決定 #思考法 #組織 #キャリア",
+      "scheduled_date": "2026-08-28",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "_PENDING_20260731_shippai_kagaku.json"
+    },
+    {
+      "id": "2026-08-03-ronten-genkai_rieki",
+      "theme": "論点スライドT02限界利益",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_genkai_rieki_v3.mp4",
+      "caption": "売上を追うほど、赤字が増えることがある。\n売っても粗利が残らない商品は、売るほど損が出る。見るべきは売上でなく、1件あたりに残る利益。残らない商品は、値上げか撤退の二択しかない。\n明日の一手：主力商品の1件あたり利益を出す。\n『経営指標大全』｜限界利益\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-03",
+      "post_time": "19:00",
+      "status": "posted",
+      "source_cfg": "cfg_genkai_rieki_v3.json",
+      "media_id": "18432857419133056",
+      "posted_at": "2026-08-03T21:51:29+09:00"
+    },
+    {
+      "id": "2026-08-04-ronten-budomari",
+      "theme": "論点スライドT03歩留まり",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_budomari_v3.mp4",
+      "caption": "受注が増えないのは、頑張る場所を間違えている。\n商談化5%の入口を倍にしても、出口はほぼ動かない。各段の通過率を並べると、落ちている一段が見える。そこだけ直すと、同じ努力で出口の数が変わる。\n明日の一手：段ごとの通過率を並べて書く。\n『THE MODEL』｜歩留まり\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-04",
+      "post_time": "19:00",
+      "status": "posted",
+      "source_cfg": "cfg_budomari_v3.json",
+      "media_id": "18065178824759981",
+      "posted_at": "2026-08-04T20:57:36+09:00"
+    },
+    {
+      "id": "2026-08-06-ronten-vji_kaifuku",
+      "theme": "論点スライドT04戦う場所",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_vji_kaifuku_v3.mp4",
+      "caption": "戦略の失敗は、現場の頑張りでは取り返せない。\n勝てない場所で努力を重ねると、疲弊だけが残る。だから最初に、戦う場所そのものを疑う。撤退は敗北ではなく、勝てる場所へ資源を移す判断。\n明日の一手：勝てない前提を1つ言葉にする。\n『V字回復の経営』｜戦略と現場\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-06",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_vji_kaifuku_v3.json"
+    },
+    {
+      "id": "2026-08-09-ronten-fukakachi",
+      "theme": "論点スライドT05付加価値",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_fukakachi_v3.mp4",
+      "caption": "忙しさの正体は、価値を生まない作業の山だ。\n作業は、価値を生むものと生まないものに割れる。生まない側は、減らすか止めるかしか選択肢がない。効率化する前に、やめる作業を決めるほうが速い。\n明日の一手：今日の作業を2種類に割る。\n『最強の業務改革』｜付加価値\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-09",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_fukakachi_v3.json"
+    },
+    {
+      "id": "2026-08-10-ronten-8020_atari",
+      "theme": "論点スライドT06当たり",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_8020_atari_v3.mp4",
+      "caption": "全部調べてから考える人は、いつも間に合わない。\nできる人は先に答えの見当をつけ、そこだけ調べる。見当が外れても、外れたと分かるだけで前に進む。網羅は目的でなく、意思決定に足る精度が目的。\n明日の一手：調べる前に仮の答えを書く。\n『完全無欠の問題解決』｜当たりをつける\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-10",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_8020_atari_v3.json"
+    },
+    {
+      "id": "2026-08-12-ronten-enyaku_kinou",
+      "theme": "論点スライドT07演繹帰納",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_enyaku_kinou_v3.mp4",
+      "caption": "話が通らない人は、2つの論法を混ぜている。\nルールから結論を出すのが演繹、事例から出すのが帰納。帰納は事例が偏ると崩れ、演繹は前提が崩れると全部崩れる。どちらで話しているかを言えば、反論の的が定まる。\n明日の一手：主張の型を自分で名指しする。\n『論理的思考のコアスキル』｜演繹と帰納\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-12",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_enyaku_kinou_v3.json"
+    },
+    {
+      "id": "2026-08-16-ronten-torihiki_hiyou",
+      "theme": "論点スライドT09取引費用",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_torihiki_hiyou_v3.mp4",
+      "caption": "内製と外注の分かれ目は、価格ではない。\n決め手は、交渉と監視にかかる見えないコスト。任せるほど安いが、任せるほど確認の手間が増える。確認コストが価格差を超えたら、内に戻すのが正しい。\n明日の一手：外注1件の確認時間を測る。\n『世界標準の経営理論』｜取引費用\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-16",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_torihiki_hiyou_v3.json"
+    },
+    {
+      "id": "2026-08-18-ronten-segmentation",
+      "theme": "論点スライドT11区画",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_segmentation_v3.mp4",
+      "caption": "全員に売ろうとすると、誰にも選ばれない。\n市場を切り分けると、自社が勝てる区画が見える。勝てる区画で1位を取ると、そこから横に広がる。最初から全体で戦うのは、資源の薄い分散になる。\n明日の一手：勝てる区画を1つ名指しする。\n『戦略プロフェッショナル』｜セグメンテーション\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-18",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_segmentation_v3.json"
+    },
+    {
+      "id": "2026-08-25-ronten-volume_source",
+      "theme": "論点スライドT08源泉",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_volume_source_v3.mp4",
+      "caption": "売上を増やす前に、誰から奪うのかを決める。\n新しい需要を作るのか、競合から取るのか、既存客に増やすのか。この3つは、必要な打ち手がまったく別になる。決めずに広告を打つと、全方向に薄く効いて終わる。\n明日の一手：伸ばす分の出どころを1つに決める。\n『マーケティング ビッグ・ピクチャー』｜ボリュームの源泉\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-25",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_volume_source_v3.json"
+    },
+    {
+      "id": "2026-08-27-ronten-leverage",
+      "theme": "論点スライドT10テコ",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_leverage_v3.mp4",
+      "caption": "管理職の1時間は、部下の何十時間を動かす。\nだから自分の作業より、他人が動く仕組みに時間を使う。手戻りを止める一言は、あとの数十時間を救う。逆に自分で巻き取るほど、全体の出力は落ちる。\n明日の一手：一番テコが効く30分を先に置く。\n『HIGH OUTPUT MANAGEMENT』｜テコ入れ\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-27",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_leverage_v3.json"
+    },
+    {
+      "id": "2026-08-29-ronten-ronten_ugoku",
+      "theme": "論点スライドT12論点は動く",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_ronten_ugoku_v3.mp4",
+      "caption": "上司の問いに答えたのに、なぜか通らない。\n答えるべき問いは、会議の途中で動いているからだ。最初の問いに忠実な資料が、いちばん外す。だから議論の節目で、問いを声に出して確認する。\n明日の一手：今日の会議で問いを言い直す。\n『論点思考』｜論点は動く\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-29",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_ronten_ugoku_v3.json"
+    },
+    {
+      "id": "2026-08-30-ronten-dainiryoiki",
+      "theme": "論点スライドT01第二領域",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_dainiryoiki_v3.mp4",
+      "caption": "予定が埋まっている人ほど、成果が出ない。\n『7つの習慣』の第二領域。緊急でないが重要な仕事のこと。急ぐ仕事は勝手に予定へ入る。重要な仕事は自分で入れないと消える。会議も返信も緊急。仕組みを直す時間だけが、誰にも呼ばれない。\n明日の一手：来週の予定に、緊急でない90分を先に置く。\n『7つの習慣』｜第二領域\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-08-30",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_dainiryoiki_v3.json"
+    },
+    {
+      "id": "2026-09-01-auto-giver",
+      "theme": "GIVE & TAKE／ギバーの分岐",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260804_giver.mp4",
+      "caption": "成果が最下位の人と、最上位の人は、同じタイプだった。\n人に与える側＝ギバー。この本が示すのは、ギバーが下にも上にも固まるという事実。分けたのは与えるかどうかではなく、自分の時間に枠を持っているかどうか。枠のないギバーは全部引き受け、自分の仕事だけが終わらない。私も何度もやった。\n明日の一手：助ける相手を1人に絞り、使う時間を先に決める。\n『GIVE & TAKE』｜ギバーの分岐\n型と全事例はプロフィールのリンクに。\n\n#思考法 #仕事術 #意思決定 #マネジメント #ビジネス書",
+      "scheduled_date": "2026-09-01",
+      "post_time": "19:00",
+      "status": "pending"
+    }
+  ]
 }
