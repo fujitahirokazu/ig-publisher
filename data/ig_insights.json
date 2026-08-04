@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-03T22:47:01.936579Z",
+ "fetched_at": "2026-08-04T10:29:37.948988Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 12,
@@ -198,8 +198,8 @@
    "date": "2026-08-03",
    "theme": "論点スライドT02限界利益",
    "metrics": {
-    "views": 23,
-    "reach": 18,
+    "views": 40,
+    "reach": 36,
     "likes": 0,
     "comments": 0,
     "saved": 0,
