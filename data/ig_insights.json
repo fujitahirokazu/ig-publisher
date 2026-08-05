@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-04T22:50:12.290061Z",
+ "fetched_at": "2026-08-05T22:45:59.101174Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 13,
- "media_indexed": 104,
+ "count": 14,
+ "media_indexed": 105,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -113,8 +113,8 @@
    "date": "2026-07-22",
    "theme": "イシュー度（イシューからはじめよ）",
    "metrics": {
-    "views": 38,
-    "reach": 28,
+    "views": 39,
+    "reach": 29,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -164,8 +164,8 @@
    "date": "2026-07-30",
    "theme": "論点スライド②転職",
    "metrics": {
-    "views": 147,
-    "reach": 126,
+    "views": 148,
+    "reach": 127,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -182,7 +182,24 @@
    "theme": "論点スライド③会議",
    "metrics": {
     "views": 28,
-    "reach": 19,
+    "reach": 20,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18080642504678601",
+   "media_id_original": "18080642504678601",
+   "date": "2026-08-05",
+   "theme": "論点スライド④誘い",
+   "metrics": {
+    "views": 16,
+    "reach": 13,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -215,8 +232,8 @@
    "date": "2026-08-04",
    "theme": "論点スライドT03歩留まり",
    "metrics": {
-    "views": 16,
-    "reach": 11,
+    "views": 24,
+    "reach": 17,
     "likes": 0,
     "comments": 0,
     "saved": 0,
