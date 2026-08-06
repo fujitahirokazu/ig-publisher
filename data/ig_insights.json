@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-05T22:45:59.101174Z",
+ "fetched_at": "2026-08-06T23:33:29.019628Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 14,
- "media_indexed": 105,
+ "count": 15,
+ "media_indexed": 106,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -164,7 +164,7 @@
    "date": "2026-07-30",
    "theme": "論点スライド②転職",
    "metrics": {
-    "views": 148,
+    "views": 150,
     "reach": 127,
     "likes": 0,
     "comments": 0,
@@ -198,8 +198,8 @@
    "date": "2026-08-05",
    "theme": "論点スライド④誘い",
    "metrics": {
-    "views": 16,
-    "reach": 13,
+    "views": 29,
+    "reach": 22,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -232,8 +232,25 @@
    "date": "2026-08-04",
    "theme": "論点スライドT03歩留まり",
    "metrics": {
-    "views": 24,
-    "reach": 17,
+    "views": 27,
+    "reach": 18,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18129525265654473",
+   "media_id_original": "18129525265654473",
+   "date": "2026-08-06",
+   "theme": "論点スライドT04戦う場所",
+   "metrics": {
+    "views": 114,
+    "reach": 104,
     "likes": 0,
     "comments": 0,
     "saved": 0,
