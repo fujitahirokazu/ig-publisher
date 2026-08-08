@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-07T22:22:23.123721Z",
+ "fetched_at": "2026-08-08T22:14:37.287468Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 15,
- "media_indexed": 106,
+ "count": 16,
+ "media_indexed": 107,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -147,8 +147,8 @@
    "date": "2026-07-25",
    "theme": "論点スライド①休日",
    "metrics": {
-    "views": 76,
-    "reach": 46,
+    "views": 77,
+    "reach": 47,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -198,8 +198,25 @@
    "date": "2026-08-05",
    "theme": "論点スライド④誘い",
    "metrics": {
-    "views": 31,
+    "views": 32,
     "reach": 24,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18235668865315816",
+   "media_id_original": "18235668865315816",
+   "date": "2026-08-08",
+   "theme": "論点スライド⑤買い物",
+   "metrics": {
+    "views": 17,
+    "reach": 13,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -215,8 +232,8 @@
    "date": "2026-08-03",
    "theme": "論点スライドT02限界利益",
    "metrics": {
-    "views": 40,
-    "reach": 36,
+    "views": 41,
+    "reach": 37,
     "likes": 0,
     "comments": 0,
     "saved": 0,
