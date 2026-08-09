@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-08T22:14:37.287468Z",
+ "fetched_at": "2026-08-09T22:16:13.289898Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 16,
- "media_indexed": 107,
+ "count": 17,
+ "media_indexed": 108,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -181,8 +181,8 @@
    "date": "2026-08-02",
    "theme": "論点スライド③会議",
    "metrics": {
-    "views": 28,
-    "reach": 20,
+    "views": 29,
+    "reach": 21,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -198,8 +198,8 @@
    "date": "2026-08-05",
    "theme": "論点スライド④誘い",
    "metrics": {
-    "views": 32,
-    "reach": 24,
+    "views": 33,
+    "reach": 25,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -215,8 +215,8 @@
    "date": "2026-08-08",
    "theme": "論点スライド⑤買い物",
    "metrics": {
-    "views": 17,
-    "reach": 13,
+    "views": 19,
+    "reach": 16,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -266,8 +266,25 @@
    "date": "2026-08-06",
    "theme": "論点スライドT04戦う場所",
    "metrics": {
-    "views": 115,
-    "reach": 105,
+    "views": 116,
+    "reach": 106,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18120052165677916",
+   "media_id_original": "18120052165677916",
+   "date": "2026-08-09",
+   "theme": "論点スライドT05付加価値",
+   "metrics": {
+    "views": 15,
+    "reach": 11,
     "likes": 0,
     "comments": 0,
     "saved": 0,
