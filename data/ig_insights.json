@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-10T22:23:18.958241Z",
+ "fetched_at": "2026-08-11T22:28:32.734672Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 18,
- "media_indexed": 109,
+ "count": 19,
+ "media_indexed": 110,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -198,8 +198,8 @@
    "date": "2026-08-05",
    "theme": "論点スライド④誘い",
    "metrics": {
-    "views": 38,
-    "reach": 27,
+    "views": 39,
+    "reach": 28,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -227,13 +227,30 @@
    "note": null
   },
   {
+   "media_id": "18086200547664007",
+   "media_id_original": "18086200547664007",
+   "date": "2026-08-11",
+   "theme": "論点スライド⑥この家",
+   "metrics": {
+    "views": 53,
+    "reach": 44,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
    "media_id": "18432857419133056",
    "media_id_original": "18432857419133056",
    "date": "2026-08-03",
    "theme": "論点スライドT02限界利益",
    "metrics": {
-    "views": 41,
-    "reach": 37,
+    "views": 42,
+    "reach": 38,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -283,8 +300,8 @@
    "date": "2026-08-09",
    "theme": "論点スライドT05付加価値",
    "metrics": {
-    "views": 32,
-    "reach": 22,
+    "views": 37,
+    "reach": 25,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -300,8 +317,8 @@
    "date": "2026-08-10",
    "theme": "論点スライドT06当たり",
    "metrics": {
-    "views": 23,
-    "reach": 18,
+    "views": 39,
+    "reach": 32,
     "likes": 0,
     "comments": 0,
     "saved": 0,
