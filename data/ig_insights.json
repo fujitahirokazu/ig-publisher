@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-11T22:28:32.734672Z",
+ "fetched_at": "2026-08-12T22:27:11.594938Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 19,
- "media_indexed": 110,
+ "count": 20,
+ "media_indexed": 111,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -181,7 +181,7 @@
    "date": "2026-08-02",
    "theme": "論点スライド③会議",
    "metrics": {
-    "views": 29,
+    "views": 30,
     "reach": 21,
     "likes": 0,
     "comments": 0,
@@ -232,8 +232,8 @@
    "date": "2026-08-11",
    "theme": "論点スライド⑥この家",
    "metrics": {
-    "views": 53,
-    "reach": 44,
+    "views": 62,
+    "reach": 48,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -324,6 +324,23 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "17877362847623348",
+   "media_id_original": "17877362847623348",
+   "date": "2026-08-12",
+   "theme": "論点スライドT07演繹帰納",
+   "metrics": {
+    "views": 154,
+    "reach": 135,
+    "likes": 1,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 1
    },
    "error": null,
    "note": null
