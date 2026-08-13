@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-12T22:27:11.594938Z",
+ "fetched_at": "2026-08-13T00:29:47.144544Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 20,
@@ -334,8 +334,8 @@
    "date": "2026-08-12",
    "theme": "論点スライドT07演繹帰納",
    "metrics": {
-    "views": 154,
-    "reach": 135,
+    "views": 159,
+    "reach": 139,
     "likes": 1,
     "comments": 0,
     "saved": 0,
