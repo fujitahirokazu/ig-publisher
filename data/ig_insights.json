@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-13T00:29:47.144544Z",
+ "fetched_at": "2026-08-13T22:27:57.355503Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 20,
- "media_indexed": 111,
+ "count": 21,
+ "media_indexed": 112,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -232,8 +232,25 @@
    "date": "2026-08-11",
    "theme": "論点スライド⑥この家",
    "metrics": {
-    "views": 62,
-    "reach": 48,
+    "views": 64,
+    "reach": 49,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18120539119814714",
+   "media_id_original": "18120539119814714",
+   "date": "2026-08-13",
+   "theme": "論点スライドkuruma",
+   "metrics": {
+    "views": 47,
+    "reach": 40,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -249,8 +266,8 @@
    "date": "2026-08-03",
    "theme": "論点スライドT02限界利益",
    "metrics": {
-    "views": 42,
-    "reach": 38,
+    "views": 43,
+    "reach": 39,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -300,8 +317,8 @@
    "date": "2026-08-09",
    "theme": "論点スライドT05付加価値",
    "metrics": {
-    "views": 37,
-    "reach": 25,
+    "views": 38,
+    "reach": 26,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -334,8 +351,8 @@
    "date": "2026-08-12",
    "theme": "論点スライドT07演繹帰納",
    "metrics": {
-    "views": 159,
-    "reach": 139,
+    "views": 167,
+    "reach": 146,
     "likes": 1,
     "comments": 0,
     "saved": 0,
