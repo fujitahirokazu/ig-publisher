@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-14T22:09:25.392659Z",
+ "fetched_at": "2026-08-15T22:07:23.107209Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 22,
- "media_indexed": 113,
+ "count": 23,
+ "media_indexed": 114,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -249,7 +249,24 @@
    "date": "2026-08-14",
    "theme": "論点スライド⑦ジム",
    "metrics": {
-    "views": 28,
+    "views": 29,
+    "reach": 17,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18072187172422112",
+   "media_id_original": "18072187172422112",
+   "date": "2026-08-15",
+   "theme": "論点スライド⑪撤退",
+   "metrics": {
+    "views": 23,
     "reach": 15,
     "likes": 0,
     "comments": 0,
@@ -266,8 +283,8 @@
    "date": "2026-08-13",
    "theme": "論点スライドkuruma",
    "metrics": {
-    "views": 50,
-    "reach": 43,
+    "views": 51,
+    "reach": 44,
     "likes": 0,
     "comments": 0,
     "saved": 0,
