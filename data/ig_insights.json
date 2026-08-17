@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-16T22:07:05.986639Z",
+ "fetched_at": "2026-08-17T22:10:25.371006Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 24,
- "media_indexed": 115,
+ "count": 26,
+ "media_indexed": 117,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -215,8 +215,8 @@
    "date": "2026-08-08",
    "theme": "論点スライド⑤買い物",
    "metrics": {
-    "views": 35,
-    "reach": 22,
+    "views": 36,
+    "reach": 23,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -261,6 +261,23 @@
    "note": null
   },
   {
+   "media_id": "17954623770207728",
+   "media_id_original": "17954623770207728",
+   "date": "2026-08-17",
+   "theme": "論点スライド⑧SNS",
+   "metrics": {
+    "views": 26,
+    "reach": 28,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
    "media_id": "18072187172422112",
    "media_id_original": "18072187172422112",
    "date": "2026-08-15",
@@ -285,6 +302,23 @@
    "metrics": {
     "views": 51,
     "reach": 44,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18405363397092828",
+   "media_id_original": "18405363397092828",
+   "date": "2026-08-17",
+   "theme": "論点スライド⑬委譲",
+   "metrics": {
+    "views": 110,
+    "reach": 102,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -402,8 +436,8 @@
    "date": "2026-08-16",
    "theme": "論点スライドT09取引費用",
    "metrics": {
-    "views": 111,
-    "reach": 101,
+    "views": 124,
+    "reach": 110,
     "likes": 0,
     "comments": 0,
     "saved": 0,
