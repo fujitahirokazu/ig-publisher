@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-18T00:29:35.047715Z",
+ "fetched_at": "2026-08-18T19:24:31.769317Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 26,
- "media_indexed": 117,
+ "count": 27,
+ "media_indexed": 118,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -266,8 +266,8 @@
    "date": "2026-08-17",
    "theme": "論点スライド⑧SNS",
    "metrics": {
-    "views": 27,
-    "reach": 29,
+    "views": 31,
+    "reach": 32,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -317,8 +317,8 @@
    "date": "2026-08-17",
    "theme": "論点スライド⑬委譲",
    "metrics": {
-    "views": 110,
-    "reach": 102,
+    "views": 113,
+    "reach": 105,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -438,6 +438,23 @@
    "metrics": {
     "views": 124,
     "reach": 110,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18124654168694194",
+   "media_id_original": "18124654168694194",
+   "date": "2026-08-18",
+   "theme": "論点スライドT11区画",
+   "metrics": {
+    "views": 38,
+    "reach": 30,
     "likes": 0,
     "comments": 0,
     "saved": 0,
