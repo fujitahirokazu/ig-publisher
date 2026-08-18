@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-17T22:10:25.371006Z",
+ "fetched_at": "2026-08-18T00:29:35.047715Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 26,
@@ -266,8 +266,8 @@
    "date": "2026-08-17",
    "theme": "論点スライド⑧SNS",
    "metrics": {
-    "views": 26,
-    "reach": 28,
+    "views": 27,
+    "reach": 29,
     "likes": 0,
     "comments": 0,
     "saved": 0,
