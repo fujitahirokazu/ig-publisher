@@ -3,7 +3,7 @@ name: ig-token-refresh
 # 毎月1日 12:00 JST (= 03:00 UTC) にトークンを自動延長。手動実行も可。
 on:
   schedule:
-    - cron: "0 3 1 * *"
+    - cron: "30 14 1 * *"
   workflow_dispatch:
 
 permissions:
