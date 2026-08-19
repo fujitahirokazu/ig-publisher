@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-18T20:00:42.095952Z",
+ "fetched_at": "2026-08-19T19:21:30.215792Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 27,
- "media_indexed": 118,
+ "count": 28,
+ "media_indexed": 119,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -329,6 +329,23 @@
    "note": null
   },
   {
+   "media_id": "18000752570994689",
+   "media_id_original": "18000752570994689",
+   "date": "2026-08-19",
+   "theme": "論点スライド⑭修理",
+   "metrics": {
+    "views": 25,
+    "reach": 18,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
    "media_id": "18432857419133056",
    "media_id_original": "18432857419133056",
    "date": "2026-08-03",
@@ -419,8 +436,8 @@
    "date": "2026-08-12",
    "theme": "論点スライドT07演繹帰納",
    "metrics": {
-    "views": 167,
-    "reach": 146,
+    "views": 170,
+    "reach": 147,
     "likes": 1,
     "comments": 0,
     "saved": 0,
@@ -436,8 +453,8 @@
    "date": "2026-08-16",
    "theme": "論点スライドT09取引費用",
    "metrics": {
-    "views": 124,
-    "reach": 110,
+    "views": 126,
+    "reach": 111,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -453,8 +470,8 @@
    "date": "2026-08-18",
    "theme": "論点スライドT11区画",
    "metrics": {
-    "views": 39,
-    "reach": 30,
+    "views": 44,
+    "reach": 34,
     "likes": 0,
     "comments": 0,
     "saved": 0,
