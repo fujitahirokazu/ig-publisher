@@ -508,6 +508,46 @@
       "scheduled_date": "2026-09-04",
       "post_time": "19:00",
       "status": "pending"
+    },
+    {
+      "id": "2026-09-06-ronten-hakken_kensho",
+      "theme": "論点スライド現03検証",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_hakken_kensho_v3.mp4",
+      "caption": "持ち込んだ本人に検証させると、判断が甘くなる。\n案件を見つける役と、精査する役は別にする。検証側に、案件を止められる独立性を持たせる。分けられない規模なら、観点だけ第三者に見せる。\n明日の一手：止める権限が誰にあるか確かめる。\n現場の判断｜案件の見極め\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-09-06",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_hakken_kensho_v3.json"
+    },
+    {
+      "id": "2026-09-08-ronten-kingaku_ato",
+      "theme": "論点スライド現02金額",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_kingaku_ato_v3.mp4",
+      "caption": "金額を先に言うと、交渉の上限を渡すことになる。\n資金力を問われても、具体額には踏み込まない。自己資金と借入、という枠組みだけを示す。信用は見せて、価格のカードは最後まで残す。\n明日の一手：出せる上限を、社内だけで持つ。\n現場の判断｜交渉の順番\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-09-08",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_kingaku_ato_v3.json"
+    },
+    {
+      "id": "2026-09-09-ronten-shoukyaku_jougen",
+      "theme": "論点スライド現04上限",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_shoukyaku_jougen_v3.mp4",
+      "caption": "払えるかと、払った後に残るかは別の話だ。\n純資産を超えて払った差額は、毎期の費用になる。融資が通ることは、その価格の根拠にならない。差額を償却期間で割り、利益が残る水準を上限にする。\n明日の一手：償却後の利益を先に出す。\n現場の判断｜買値の上限\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-09-09",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_shoukyaku_jougen_v3.json"
+    },
+    {
+      "id": "2026-09-10-ronten-urite_keikaku",
+      "theme": "論点スライド現01計画",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_urite_keikaku_v3.mp4",
+      "caption": "売り手の事業計画は、売るための計画だ。\n急成長の絵は、採用が計画通り進む前提で描かれる。その採用が本当に埋まるかは、別に検証がいる。前提が崩れる計画に、本業と同じ期待値を払わない。\n明日の一手：成長を支える前提を1つ分解する。\n現場の判断｜買収の値付け\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-09-10",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_urite_keikaku_v3.json"
     }
   ]
 }
