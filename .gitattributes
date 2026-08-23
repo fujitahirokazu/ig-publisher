@@ -1,0 +1,8 @@
+# data/approved_reels_ig.json には書き手が2人いる（2026-08-23 実測）。
+#   GitHub Actions … 投稿できた reel に status=posted / media_id / posted_at を書く
+#   ローカル        … 新しく承認した reel を足す
+# 同じ行を触るので、間があくと必ず衝突する（8晩連続で rebase 失敗した）。
+# id で突き合わせれば答えは一意に決まるので、専用のマージ器に解かせる。
+# ドライバ本体の登録は .git/config 側（auto-git-sync.ps1 が毎回入れ直す）。
+# 登録が無い環境（GitHub Actions など）では通常の3方向マージに落ちるだけで、壊れない。
+data/approved_reels_ig.json merge=igqueue
