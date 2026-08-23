@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-23T07:45:11.544813Z",
+ "fetched_at": "2026-08-23T19:19:36.613079Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 30,
- "media_indexed": 122,
+ "count": 32,
+ "media_indexed": 124,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -295,6 +295,23 @@
    "note": null
   },
   {
+   "media_id": "17878872285688025",
+   "media_id_original": "17878872285688025",
+   "date": "2026-08-23",
+   "theme": "制約理論（ザ・ゴール）",
+   "metrics": {
+    "views": 47,
+    "reach": 41,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
    "media_id": "18072187172422112",
    "media_id_original": "18072187172422112",
    "date": "2026-08-15",
@@ -334,8 +351,8 @@
    "date": "2026-08-21",
    "theme": "論点スライド⑫上申",
    "metrics": {
-    "views": 36,
-    "reach": 22,
+    "views": 37,
+    "reach": 23,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -370,6 +387,23 @@
    "metrics": {
     "views": 39,
     "reach": 32,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "17904846018515882",
+   "media_id_original": "17904846018515882",
+   "date": "2026-08-23",
+   "theme": "論点スライド⑮数字",
+   "metrics": {
+    "views": 70,
+    "reach": 63,
     "likes": 0,
     "comments": 0,
     "saved": 0,
