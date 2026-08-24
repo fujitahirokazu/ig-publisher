@@ -548,6 +548,16 @@
       "post_time": "19:00",
       "status": "pending",
       "source_cfg": "cfg_urite_keikaku_v3.json"
+    },
+    {
+      "id": "2026-08-24-otori-kouka",
+      "theme": "名著shorts｜おとり効果",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260824_otori_kouka.mp4",
+      "caption": "「3案から選んでもらう」は、選ばせていない。\n人は案の良し悪しを単独では判断できない。隣に何が並ぶかで同じ案の評価が動く——行動経済学者アリエリーが実験で示した人の癖だ。だから3つ目の案は、選ばれるために置かれるとは限らない。怖いのは、自分が並べる側になった時に無自覚でやっていること。\n明日の一手：本命の案を、単独で説明できるか確かめる。\n他の2案が無くても通るなら、それは本物の根拠。\n\n#予想どおりに不合理 #行動経済学 #意思決定 #仕事術 #ビジネス #思考法",
+      "scheduled_date": "2026-09-12",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "auto_20260824_otori_kouka (make_short --style 1)"
     }
   ]
 }
