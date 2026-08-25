@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-24T19:26:09.366057Z",
+ "fetched_at": "2026-08-25T19:28:15.315524Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 33,
- "media_indexed": 125,
+ "count": 34,
+ "media_indexed": 126,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -300,8 +300,8 @@
    "date": "2026-08-23",
    "theme": "制約理論（ザ・ゴール）",
    "metrics": {
-    "views": 68,
-    "reach": 57,
+    "views": 69,
+    "reach": 58,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -317,8 +317,8 @@
    "date": "2026-08-24",
    "theme": "エッセンシャル思考（より少なく、しかしより良く）",
    "metrics": {
-    "views": 26,
-    "reach": 21,
+    "views": 51,
+    "reach": 44,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -419,8 +419,8 @@
    "date": "2026-08-23",
    "theme": "論点スライド⑮数字",
    "metrics": {
-    "views": 82,
-    "reach": 74,
+    "views": 85,
+    "reach": 78,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -557,6 +557,23 @@
    "metrics": {
     "views": 47,
     "reach": 36,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18580601899069379",
+   "media_id_original": "18580601899069379",
+   "date": "2026-08-25",
+   "theme": "論点スライドT08源泉",
+   "metrics": {
+    "views": 17,
+    "reach": 7,
     "likes": 0,
     "comments": 0,
     "saved": 0,
