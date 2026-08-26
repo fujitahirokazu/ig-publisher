@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-26T14:00:29.941816Z",
+ "fetched_at": "2026-08-26T21:37:04.455703Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 35,
@@ -317,8 +317,8 @@
    "date": "2026-08-24",
    "theme": "エッセンシャル思考（より少なく、しかしより良く）",
    "metrics": {
-    "views": 53,
-    "reach": 44,
+    "views": 57,
+    "reach": 45,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -351,8 +351,8 @@
    "date": "2026-08-26",
    "theme": "診断（良い戦略、悪い戦略）",
    "metrics": {
-    "views": 11,
-    "reach": 8,
+    "views": 14,
+    "reach": 11,
     "likes": 0,
     "comments": 0,
     "saved": 0,
