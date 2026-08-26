@@ -1,8 +1,8 @@
 {
- "fetched_at": "2026-08-25T19:28:15.315524Z",
+ "fetched_at": "2026-08-26T14:00:29.941816Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 34,
+ "count": 35,
  "media_indexed": 126,
  "reels": [
   {
@@ -295,13 +295,13 @@
    "note": null
   },
   {
-   "media_id": "17878872285688025",
-   "media_id_original": "17878872285688025",
-   "date": "2026-08-23",
+   "media_id": "17934834999369559",
+   "media_id_original": "17934834999369559",
+   "date": "2026-08-22",
    "theme": "制約理論（ザ・ゴール）",
    "metrics": {
-    "views": 69,
-    "reach": 58,
+    "views": 158,
+    "reach": 134,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -317,7 +317,7 @@
    "date": "2026-08-24",
    "theme": "エッセンシャル思考（より少なく、しかしより良く）",
    "metrics": {
-    "views": 51,
+    "views": 53,
     "reach": 44,
     "likes": 0,
     "comments": 0,
@@ -336,6 +336,23 @@
    "metrics": {
     "views": 30,
     "reach": 21,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18387352318166833",
+   "media_id_original": "18387352318166833",
+   "date": "2026-08-26",
+   "theme": "診断（良い戦略、悪い戦略）",
+   "metrics": {
+    "views": 11,
+    "reach": 8,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -419,7 +436,7 @@
    "date": "2026-08-23",
    "theme": "論点スライド⑮数字",
    "metrics": {
-    "views": 85,
+    "views": 86,
     "reach": 78,
     "likes": 0,
     "comments": 0,
@@ -572,13 +589,13 @@
    "date": "2026-08-25",
    "theme": "論点スライドT08源泉",
    "metrics": {
-    "views": 17,
-    "reach": 7,
-    "likes": 0,
+    "views": 27,
+    "reach": 14,
+    "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
-    "total_interactions": 0
+    "total_interactions": 1
    },
    "error": null,
    "note": null
