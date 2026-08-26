@@ -81,9 +81,30 @@ def pick(oid, O, A, B):
                 m[k] = posted[k]
         return m, True
     if ap and bp:
-        # 両方 posted。CI の欄が食い違うのは異常なので人に返す。
+        # 両方 posted。CI の欄が一致していれば本文編集側を採る。
         if all(a.get(k) == b.get(k) for k in FIELDS_CI):
             return (a if a != o else b), True
+        # --- 2026-08-26 追加：両方 posted で media_id / posted_at だけが割れる形は
+        #     「同じ reel が2回投稿された」痕跡。実際に 2026-08-22-thegoal-toc で発生し、
+        #     ここが人待ちになった結果 9夜 rebase が止まり push が死んだ。
+        #     どちらを採っても再投稿は起きない（両側 posted）ので、機械で決めてよい。
+        #     採用＝posted_at が**早い側**（本当に最初に出た記録）。捨てない方の media_id は
+        #     dup_media_ids に残し、健診が拾えるようにする。黙って片側を消さない。
+        pa_, pb_ = str(a.get("posted_at") or ""), str(b.get("posted_at") or "")
+        if pa_ and pb_ and pa_ != pb_:
+            first, second = (a, b) if pa_ < pb_ else (b, a)
+            m = dict(first)
+            dup = list(m.get("dup_media_ids") or [])
+            for src in (a, b):
+                for v in list(src.get("dup_media_ids") or []):
+                    if v and v not in dup:
+                        dup.append(v)
+            sm = second.get("media_id")
+            if sm and sm != m.get("media_id") and sm not in dup:
+                dup.append(sm)
+            if dup:
+                m["dup_media_ids"] = sorted(dup)
+            return m, True
         return None, False
 
     # --- どちらも未投稿。祖先から変わった側を採る。両方変わっていたら人に返す。
@@ -163,6 +184,20 @@ def selftest():
          {"series": "s", "reels": [R("a", "posted", media_id="M1", posted_at="T1"), R("b")]},
          ["a", "b", "c"],
          lambda r: r["reels"][0]["status"] == "posted" and r["reels"][0]["media_id"] == "M1")
+    # ④ 両方 posted で media_id/posted_at が割れる＝二重投稿の痕跡。早い側を採り dup を残す
+    case("両方posted・二重投稿の痕跡",
+         {"series": "s", "reels": [R("a", "posted", media_id="M1", posted_at="2026-08-22T19:14:02+09:00")]},
+         {"series": "s", "reels": [R("a", "posted", media_id="M1", posted_at="2026-08-22T19:14:02+09:00")]},
+         {"series": "s", "reels": [R("a", "posted", media_id="M2", posted_at="2026-08-23T19:15:00+09:00")]},
+         ["a"],
+         lambda r: r["reels"][0]["media_id"] == "M1" and r["reels"][0]["dup_media_ids"] == ["M2"])
+    # ④b 左右を入れ替えても同じ答え（rebase では ours/theirs が反転するため対称性が必須）
+    case("二重投稿の痕跡・左右反転",
+         {"series": "s", "reels": [R("a", "posted", media_id="M1", posted_at="2026-08-22T19:14:02+09:00")]},
+         {"series": "s", "reels": [R("a", "posted", media_id="M2", posted_at="2026-08-23T19:15:00+09:00")]},
+         {"series": "s", "reels": [R("a", "posted", media_id="M1", posted_at="2026-08-22T19:14:02+09:00")]},
+         ["a"],
+         lambda r: r["reels"][0]["media_id"] == "M1" and r["reels"][0]["dup_media_ids"] == ["M2"])
     # ③ posted 側の CI 欄を残しつつ、未投稿側の本文編集を活かす
     case("本文編集は活かす",
          base,
