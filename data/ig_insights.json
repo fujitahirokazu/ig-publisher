@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-26T21:37:04.455703Z",
+ "fetched_at": "2026-08-27T00:20:30.492058Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 35,
@@ -351,8 +351,8 @@
    "date": "2026-08-26",
    "theme": "診断（良い戦略、悪い戦略）",
    "metrics": {
-    "views": 14,
-    "reach": 11,
+    "views": 15,
+    "reach": 12,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -385,8 +385,8 @@
    "date": "2026-08-21",
    "theme": "論点スライド⑫上申",
    "metrics": {
-    "views": 38,
-    "reach": 24,
+    "views": 40,
+    "reach": 25,
     "likes": 0,
     "comments": 0,
     "saved": 0,
