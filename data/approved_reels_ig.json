@@ -558,6 +558,16 @@
       "post_time": "19:00",
       "status": "pending",
       "source_cfg": "auto_20260824_otori_kouka (make_short --style 1)"
+    },
+    {
+      "id": "2026-09-14-auto-sokutei-shuchaku",
+      "theme": "測りすぎ／測定執着",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260827_sokutei_shuchaku.mp4",
+      "caption": "数字が良くなるのは、成果が出たからとは限らない。\n\n評価の基準が目的に変わった瞬間、人はその基準を守るためだけに動き出す。中身でなく、数字の見た目を良くする方へ力が向かう——医療現場や警察組織でも報告される「測定執着」の罠だ。難しい症例を避ける医師。検挙率を守るために動きを鈍らせる組織。私も、達成率だけを見て「順調だ」と判断し、現場で何が犠牲になっているか見ていなかったことがある。\n\n明日の一手：新しい評価基準（KPI）を追加する前に、それが歪める行動を1つ書き出す。\n\n『測りすぎ』｜測定執着\n\n#測りすぎ #測定執着 #KPI #評価制度 #仕事術 #意思決定 #マネジメント #ビジネス書",
+      "scheduled_date": "2026-09-14",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "auto_20260827_sokutei_shuchaku (make_short --style 2)"
     }
   ]
 }
