@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-27T20:01:53.372637Z",
+ "fetched_at": "2026-08-28T02:24:51.625080Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 35,
- "media_indexed": 126,
+ "count": 37,
+ "media_indexed": 128,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -448,6 +448,23 @@
    "note": null
   },
   {
+   "media_id": "18176630467438208",
+   "media_id_original": "18176630467438208",
+   "date": "2026-08-28",
+   "theme": "ブラックボックス思考（失敗の科学）",
+   "metrics": {
+    "views": 166,
+    "reach": 157,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
    "media_id": "18432857419133056",
    "media_id_original": "18432857419133056",
    "date": "2026-08-03",
@@ -589,13 +606,30 @@
    "date": "2026-08-25",
    "theme": "論点スライドT08源泉",
    "metrics": {
-    "views": 27,
+    "views": 28,
     "reach": 15,
     "likes": 1,
     "comments": 0,
     "saved": 0,
     "shares": 0,
     "total_interactions": 1
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18622906039059483",
+   "media_id_original": "18622906039059483",
+   "date": "2026-08-28",
+   "theme": "論点スライドT10テコ",
+   "metrics": {
+    "views": 150,
+    "reach": 131,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "error": null,
    "note": null
