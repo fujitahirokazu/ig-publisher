@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-28T02:24:51.625080Z",
+ "fetched_at": "2026-08-29T01:58:12.011099Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 37,
- "media_indexed": 128,
+ "count": 38,
+ "media_indexed": 129,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -249,8 +249,8 @@
    "date": "2026-08-14",
    "theme": "論点スライド⑦ジム",
    "metrics": {
-    "views": 31,
-    "reach": 18,
+    "views": 32,
+    "reach": 19,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -317,8 +317,8 @@
    "date": "2026-08-24",
    "theme": "エッセンシャル思考（より少なく、しかしより良く）",
    "metrics": {
-    "views": 57,
-    "reach": 45,
+    "views": 59,
+    "reach": 46,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -335,7 +335,7 @@
    "theme": "論点スライド⑪撤退",
    "metrics": {
     "views": 30,
-    "reach": 21,
+    "reach": 22,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -351,8 +351,8 @@
    "date": "2026-08-26",
    "theme": "診断（良い戦略、悪い戦略）",
    "metrics": {
-    "views": 18,
-    "reach": 15,
+    "views": 20,
+    "reach": 18,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -369,7 +369,7 @@
    "theme": "論点スライドkuruma",
    "metrics": {
     "views": 51,
-    "reach": 44,
+    "reach": 45,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -453,8 +453,8 @@
    "date": "2026-08-28",
    "theme": "ブラックボックス思考（失敗の科学）",
    "metrics": {
-    "views": 166,
-    "reach": 157,
+    "views": 175,
+    "reach": 164,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -623,8 +623,25 @@
    "date": "2026-08-28",
    "theme": "論点スライドT10テコ",
    "metrics": {
-    "views": 150,
-    "reach": 131,
+    "views": 161,
+    "reach": 141,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18072741446441949",
+   "media_id_original": "18072741446441949",
+   "date": "2026-08-29",
+   "theme": "論点スライドT12論点は動く",
+   "metrics": {
+    "views": 30,
+    "reach": 24,
     "likes": 0,
     "comments": 0,
     "saved": 0,
