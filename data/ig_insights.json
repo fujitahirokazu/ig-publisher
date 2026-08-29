@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-08-29T01:58:12.011099Z",
+ "fetched_at": "2026-08-29T21:29:33.485799Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 38,
@@ -351,8 +351,8 @@
    "date": "2026-08-26",
    "theme": "診断（良い戦略、悪い戦略）",
    "metrics": {
-    "views": 20,
-    "reach": 18,
+    "views": 22,
+    "reach": 20,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -453,8 +453,8 @@
    "date": "2026-08-28",
    "theme": "ブラックボックス思考（失敗の科学）",
    "metrics": {
-    "views": 175,
-    "reach": 164,
+    "views": 176,
+    "reach": 165,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -623,8 +623,8 @@
    "date": "2026-08-28",
    "theme": "論点スライドT10テコ",
    "metrics": {
-    "views": 161,
-    "reach": 141,
+    "views": 167,
+    "reach": 142,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -640,8 +640,8 @@
    "date": "2026-08-29",
    "theme": "論点スライドT12論点は動く",
    "metrics": {
-    "views": 30,
-    "reach": 24,
+    "views": 65,
+    "reach": 57,
     "likes": 0,
     "comments": 0,
     "saved": 0,
