@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-29T21:29:33.485799Z",
+ "fetched_at": "2026-08-30T21:49:36.678722Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 38,
- "media_indexed": 129,
+ "count": 39,
+ "media_indexed": 130,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -453,8 +453,8 @@
    "date": "2026-08-28",
    "theme": "ブラックボックス思考（失敗の科学）",
    "metrics": {
-    "views": 176,
-    "reach": 165,
+    "views": 177,
+    "reach": 166,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -623,8 +623,8 @@
    "date": "2026-08-28",
    "theme": "論点スライドT10テコ",
    "metrics": {
-    "views": 167,
-    "reach": 142,
+    "views": 170,
+    "reach": 144,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -640,8 +640,25 @@
    "date": "2026-08-29",
    "theme": "論点スライドT12論点は動く",
    "metrics": {
-    "views": 65,
-    "reach": 57,
+    "views": 68,
+    "reach": 59,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "17910542352462600",
+   "media_id_original": "17910542352462600",
+   "date": "2026-08-30",
+   "theme": "論点スライドT01第二領域",
+   "metrics": {
+    "views": 84,
+    "reach": 77,
     "likes": 0,
     "comments": 0,
     "saved": 0,
