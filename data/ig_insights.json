@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-08-31T14:00:27.103424Z",
+ "fetched_at": "2026-08-31T23:05:45.641646Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 39,
- "media_indexed": 130,
+ "count": 41,
+ "media_indexed": 132,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -623,8 +623,8 @@
    "date": "2026-08-28",
    "theme": "論点スライドT10テコ",
    "metrics": {
-    "views": 171,
-    "reach": 145,
+    "views": 173,
+    "reach": 146,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -657,8 +657,42 @@
    "date": "2026-08-30",
    "theme": "論点スライドT01第二領域",
    "metrics": {
-    "views": 99,
-    "reach": 83,
+    "views": 141,
+    "reach": 125,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18144155656561902",
+   "media_id_original": "18144155656561902",
+   "date": "2026-09-01",
+   "theme": "GIVE & TAKE／ギバーの分岐",
+   "metrics": {
+    "views": 24,
+    "reach": 17,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18118620769905543",
+   "media_id_original": "18118620769905543",
+   "date": "2026-09-01",
+   "theme": "イノベーションのジレンマ／破壊的技術",
+   "metrics": {
+    "views": 36,
+    "reach": 30,
     "likes": 0,
     "comments": 0,
     "saved": 0,
