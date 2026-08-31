@@ -616,6 +616,16 @@
       "post_time": "19:00",
       "status": "pending",
       "source_cfg": "cfg_shihon_cost_v3.json"
+    },
+    {
+      "id": "2026-09-18-auto-icontact-gokai",
+      "theme": "FBI捜査官が教える「しぐさ」の心理学／視線の誤解",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260831_icontact_gokai.mp4",
+      "caption": "目を逸らす人ほど、嘘をついている——は誤解かもしれない。\n\nFBI捜査官として尋問を重ねてきた経験では、堂々とアイコンタクトを保つ人ほど手慣れていることがある。目線の強さを誠実さの証拠にすると、上手な相手にはそれだけで信じてしまう。見るべきは目線の有無でなく、その人のいつもと違う変化——普段と違う手や姿勢の動きの方だ。私も、目をまっすぐ見て話す人ほど信頼できると思い込んでいたことがある。\n\n明日の一手：次の商談では、相手の目でなく「いつもと違う動き」を1つ探す。\n\n『FBI捜査官が教える「しぐさ」の心理学』｜視線の誤解\n\n#しぐさの心理学 #ボディランゲージ #非言語コミュニケーション #交渉術 #仕事術 #意思決定 #ビジネス書 #心理学",
+      "scheduled_date": "2026-09-18",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "auto_20260831_icontact_gokai (make_short --style 3)"
     }
   ]
 }
