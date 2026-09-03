@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-03T14:00:26.179561Z",
+ "fetched_at": "2026-09-03T21:33:09.916480Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 42,
- "media_indexed": 133,
+ "media_indexed": 134,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -691,8 +691,8 @@
    "date": "2026-09-01",
    "theme": "イノベーションのジレンマ／破壊的技術",
    "metrics": {
-    "views": 52,
-    "reach": 44,
+    "views": 54,
+    "reach": 45,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -709,7 +709,7 @@
    "theme": "論点スライドx",
    "metrics": {
     "views": 92,
-    "reach": 81,
+    "reach": 86,
     "likes": 0,
     "comments": 0,
     "saved": 0,
