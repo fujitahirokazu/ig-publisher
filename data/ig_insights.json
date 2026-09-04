@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-03T21:33:09.916480Z",
+ "fetched_at": "2026-09-04T21:12:29.370114Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 42,
- "media_indexed": 134,
+ "count": 44,
+ "media_indexed": 136,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -266,8 +266,8 @@
    "date": "2026-08-17",
    "theme": "論点スライド⑧SNS",
    "metrics": {
-    "views": 34,
-    "reach": 33,
+    "views": 35,
+    "reach": 34,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -300,8 +300,8 @@
    "date": "2026-08-22",
    "theme": "制約理論（ザ・ゴール）",
    "metrics": {
-    "views": 158,
-    "reach": 134,
+    "views": 159,
+    "reach": 135,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -573,7 +573,7 @@
    "theme": "論点スライドT09取引費用",
    "metrics": {
     "views": 128,
-    "reach": 113,
+    "reach": 114,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -657,8 +657,8 @@
    "date": "2026-08-30",
    "theme": "論点スライドT01第二領域",
    "metrics": {
-    "views": 143,
-    "reach": 126,
+    "views": 144,
+    "reach": 127,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -674,8 +674,25 @@
    "date": "2026-09-01",
    "theme": "GIVE & TAKE／ギバーの分岐",
    "metrics": {
-    "views": 46,
-    "reach": 35,
+    "views": 48,
+    "reach": 36,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18440541994120183",
+   "media_id_original": "18440541994120183",
+   "date": "2026-09-04",
+   "theme": "影響力の武器／社会的証明",
+   "metrics": {
+    "views": 4,
+    "reach": 3,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -708,8 +725,25 @@
    "date": "2026-09-02",
    "theme": "論点スライドx",
    "metrics": {
-    "views": 92,
-    "reach": 86,
+    "views": 96,
+    "reach": 88,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "17894117058670885",
+   "media_id_original": "17894117058670885",
+   "date": "2026-09-04",
+   "theme": "世界標準の経営理論／知の探索",
+   "metrics": {
+    "views": 17,
+    "reach": 9,
     "likes": 0,
     "comments": 0,
     "saved": 0,
