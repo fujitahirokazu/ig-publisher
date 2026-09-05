@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-04T21:12:29.370114Z",
+ "fetched_at": "2026-09-05T20:55:16.678057Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 44,
- "media_indexed": 136,
+ "count": 45,
+ "media_indexed": 137,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -351,8 +351,8 @@
    "date": "2026-08-26",
    "theme": "診断（良い戦略、悪い戦略）",
    "metrics": {
-    "views": 22,
-    "reach": 20,
+    "views": 23,
+    "reach": 21,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -691,8 +691,25 @@
    "date": "2026-09-04",
    "theme": "影響力の武器／社会的証明",
    "metrics": {
-    "views": 4,
-    "reach": 3,
+    "views": 43,
+    "reach": 39,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18070132466549622",
+   "media_id_original": "18070132466549622",
+   "date": "2026-09-05",
+   "theme": "ファスト＆スロー／アンカリング",
+   "metrics": {
+    "views": 25,
+    "reach": 20,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -725,8 +742,8 @@
    "date": "2026-09-02",
    "theme": "論点スライドx",
    "metrics": {
-    "views": 96,
-    "reach": 88,
+    "views": 98,
+    "reach": 89,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -742,8 +759,8 @@
    "date": "2026-09-04",
    "theme": "世界標準の経営理論／知の探索",
    "metrics": {
-    "views": 17,
-    "reach": 9,
+    "views": 32,
+    "reach": 17,
     "likes": 0,
     "comments": 0,
     "saved": 0,
