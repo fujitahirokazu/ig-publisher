@@ -650,6 +650,56 @@
       "post_time": "19:00",
       "status": "pending",
       "source_cfg": "auto_20260903_leverage_output (make_short --style 4)"
+    },
+    {
+      "id": "2026-09-19-ronten-kenni_daisansha",
+      "theme": "論点スライド影響力の武器｜権威③第三者",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_kenni_daisansha_v3.mp4",
+      "caption": "自分で言うと通らない話が、他人の口だと通る。\n同じ内容でも、話し手が利害の外にいると疑われにくい。自分の提案は「自分の得のために言っている」と読まれる。だから通したい話ほど、自分で言わない。\n明日の一手：次の提案を、隣の部署の誰に先に話すか決める。\n『影響力の武器』｜権威と第三者\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-09-19",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_kenni_daisansha_v3.json"
+    },
+    {
+      "id": "2026-09-20-ronten-kenni_katagaki",
+      "theme": "論点スライド影響力の武器｜権威①肩書き",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_kenni_katagaki_v3.mp4",
+      "caption": "反対が出ない会議は、合意ではない。\n上の人が先に意見を言うと、反対側の情報が出てこなくなる。黙るのは納得したからではない。言うコストが割に合わないからだ。つまり「異論なし」は、情報が消えた合図でもある。\n明日の一手：次の会議で、決裁者が最後に話す順番にする。\n『影響力の武器』｜権威と肩書き\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-09-20",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_kenni_katagaki_v3.json"
+    },
+    {
+      "id": "2026-09-21-ronten-kenni_shutten",
+      "theme": "論点スライド影響力の武器｜権威②出典",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_kenni_shutten_v3.mp4",
+      "caption": "出典がついた数字ほど、誰も確かめない。\n出典は「確認済み」という記号として働くから。記号があると、検証のコストを払う人がいなくなる。元の数字が何を測ったものかは、たいてい誰も見ていない。\n明日の一手：資料の数字を1つ選んで、出典の元データまで戻る。\n『影響力の武器』｜権威と出典\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-09-21",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_kenni_shutten_v3.json"
+    },
+    {
+      "id": "2026-09-22-ronten-leverage_output",
+      "theme": "論点スライドHIGH OUTPUT MANAGEMENT｜テコ作用",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_leverage_output_v3.mp4",
+      "caption": "自分でこなした仕事の量は、管理職の成果に数えない。\n成果は、自分の組織と隣の組織の成果の合計だ。自分の処理量は、その式に入っていない。10人が2週間動く向きを決める30分は、机に向かう2日より効く。\n明日の一手：今日の予定を1つ選び、何人の動きを変えるか書く。\n『HIGH OUTPUT MANAGEMENT』｜テコ作用\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-09-22",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_leverage_output_v3.json"
+    },
+    {
+      "id": "2026-09-23-ronten-shippai_kagaku",
+      "theme": "論点スライド失敗の科学｜ブラックボックス思考",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_shippai_kagaku_v3.mp4",
+      "caption": "失敗が減らないのは、能力の問題ではない。\nミスを恥として隠す職場では、失敗の記録が残らない。記録が無いので学べず、同じ失敗が繰り返される。航空業界は逆で、事故のたびに記録を公開して原因を潰す。\n明日の一手：ミスが出たら「誰が」を伏せ、「何が起きたか」だけ書く。\n『失敗の科学』｜ブラックボックス思考\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+      "scheduled_date": "2026-09-23",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "cfg_shippai_kagaku_v3.json"
     }
   ]
 }
