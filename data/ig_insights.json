@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-05T20:55:16.678057Z",
+ "fetched_at": "2026-09-06T14:00:32.388280Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 45,
- "media_indexed": 137,
+ "count": 46,
+ "media_indexed": 138,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -624,7 +624,7 @@
    "theme": "論点スライドT10テコ",
    "metrics": {
     "views": 174,
-    "reach": 147,
+    "reach": 148,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -674,8 +674,8 @@
    "date": "2026-09-01",
    "theme": "GIVE & TAKE／ギバーの分岐",
    "metrics": {
-    "views": 48,
-    "reach": 36,
+    "views": 53,
+    "reach": 37,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -691,8 +691,8 @@
    "date": "2026-09-04",
    "theme": "影響力の武器／社会的証明",
    "metrics": {
-    "views": 43,
-    "reach": 39,
+    "views": 46,
+    "reach": 40,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -708,8 +708,8 @@
    "date": "2026-09-05",
    "theme": "ファスト＆スロー／アンカリング",
    "metrics": {
-    "views": 25,
-    "reach": 20,
+    "views": 34,
+    "reach": 28,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -725,8 +725,8 @@
    "date": "2026-09-01",
    "theme": "イノベーションのジレンマ／破壊的技術",
    "metrics": {
-    "views": 54,
-    "reach": 45,
+    "views": 55,
+    "reach": 46,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -759,8 +759,25 @@
    "date": "2026-09-04",
    "theme": "世界標準の経営理論／知の探索",
    "metrics": {
-    "views": 32,
-    "reach": 17,
+    "views": 34,
+    "reach": 19,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18102333923251413",
+   "media_id_original": "18102333923251413",
+   "date": "2026-09-06",
+   "theme": "論点スライド現03検証",
+   "metrics": {
+    "views": 4,
+    "reach": 1,
     "likes": 0,
     "comments": 0,
     "saved": 0,
