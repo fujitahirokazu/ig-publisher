@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-07T14:00:35.471202Z",
+ "fetched_at": "2026-09-07T21:53:46.607266Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 46,
- "media_indexed": 138,
+ "count": 48,
+ "media_indexed": 140,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -720,13 +720,30 @@
    "note": null
   },
   {
+   "media_id": "17883511059491918",
+   "media_id_original": "17883511059491918",
+   "date": "2026-09-08",
+   "theme": "恐れのない組織／心理的安全性",
+   "metrics": {
+    "views": 37,
+    "reach": 36,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
    "media_id": "18118620769905543",
    "media_id_original": "18118620769905543",
    "date": "2026-09-01",
    "theme": "イノベーションのジレンマ／破壊的技術",
    "metrics": {
-    "views": 57,
-    "reach": 47,
+    "views": 58,
+    "reach": 48,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -778,6 +795,23 @@
    "metrics": {
     "views": 47,
     "reach": 41,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18625174585048995",
+   "media_id_original": "18625174585048995",
+   "date": "2026-09-08",
+   "theme": "論点スライド現02金額",
+   "metrics": {
+    "views": 15,
+    "reach": 10,
     "likes": 0,
     "comments": 0,
     "saved": 0,
