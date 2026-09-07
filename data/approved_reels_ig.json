@@ -700,6 +700,16 @@
       "post_time": "19:00",
       "status": "pending",
       "source_cfg": "cfg_shippai_kagaku_v3.json"
+    },
+    {
+      "id": "2026-09-25-auto-simpson-paradox",
+      "theme": "因果推論の科学／シンプソンのパラドックス",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260907_simpson_paradox.mp4",
+      "caption": "全体の数字で「効いた」施策が、どの部門でも効いていないことがある。\n\n『因果推論の科学』が挙げる架空の薬の例。男性だけ見ても、女性だけ見ても発作は増えている。なのに全員を合算すると減っている。シンプソンのパラドックスと呼ぶ。種明かしは、薬を選んだ人の偏り。もともとリスクの低い側が多く薬を飲めば、合算の数字は勝手に良くなる。効果ではなく、誰が対象になったかの差だ。仕事でも同じことが起きる。全体の達成率だけ見て「効いた」と言いたくなる。部門で割った瞬間に消える効果は、珍しくない。\n\n明日の一手：施策の前後比較を出す前に、対象を1つの軸で割り、全部が同じ向きか確かめる。\n\n『因果推論の科学』｜シンプソンのパラドックス\n型と全事例はプロフィールのリンクに。\n\n#因果推論の科学 #シンプソンのパラドックス #データ分析 #KPI #意思決定 #仕事術 #思考法 #ビジネス書",
+      "scheduled_date": "2026-09-25",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "auto_20260907_simpson_paradox (make_short --style 0)"
     }
   ]
 }
