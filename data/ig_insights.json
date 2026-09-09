@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-08T23:37:11.217854Z",
+ "fetched_at": "2026-09-09T21:28:51.433637Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 48,
- "media_indexed": 140,
+ "count": 50,
+ "media_indexed": 142,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -640,8 +640,8 @@
    "date": "2026-08-29",
    "theme": "論点スライドT12論点は動く",
    "metrics": {
-    "views": 72,
-    "reach": 60,
+    "views": 73,
+    "reach": 61,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -725,8 +725,8 @@
    "date": "2026-09-08",
    "theme": "恐れのない組織／心理的安全性",
    "metrics": {
-    "views": 99,
-    "reach": 90,
+    "views": 101,
+    "reach": 91,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -759,8 +759,8 @@
    "date": "2026-09-02",
    "theme": "論点スライドx",
    "metrics": {
-    "views": 99,
-    "reach": 90,
+    "views": 101,
+    "reach": 91,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -793,8 +793,8 @@
    "date": "2026-09-06",
    "theme": "論点スライド現03検証",
    "metrics": {
-    "views": 49,
-    "reach": 42,
+    "views": 50,
+    "reach": 43,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -810,8 +810,42 @@
    "date": "2026-09-08",
    "theme": "論点スライド現02金額",
    "metrics": {
-    "views": 138,
-    "reach": 115,
+    "views": 139,
+    "reach": 116,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18104776082249693",
+   "media_id_original": "18104776082249693",
+   "date": "2026-09-09",
+   "theme": "論点スライド現04上限",
+   "metrics": {
+    "views": 18,
+    "reach": 13,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18111878696088871",
+   "media_id_original": "18111878696088871",
+   "date": "2026-09-10",
+   "theme": "論点スライド現01計画",
+   "metrics": {
+    "views": 11,
+    "reach": 10,
     "likes": 0,
     "comments": 0,
     "saved": 0,
