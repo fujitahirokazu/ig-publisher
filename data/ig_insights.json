@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-10T02:00:30.572526Z",
+ "fetched_at": "2026-09-10T21:22:01.322041Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 50,
@@ -725,8 +725,8 @@
    "date": "2026-09-08",
    "theme": "恐れのない組織／心理的安全性",
    "metrics": {
-    "views": 101,
-    "reach": 91,
+    "views": 103,
+    "reach": 92,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -759,8 +759,8 @@
    "date": "2026-09-02",
    "theme": "論点スライドx",
    "metrics": {
-    "views": 101,
-    "reach": 91,
+    "views": 104,
+    "reach": 92,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -827,8 +827,8 @@
    "date": "2026-09-09",
    "theme": "論点スライド現04上限",
    "metrics": {
-    "views": 34,
-    "reach": 34,
+    "views": 50,
+    "reach": 49,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -844,8 +844,8 @@
    "date": "2026-09-10",
    "theme": "論点スライド現01計画",
    "metrics": {
-    "views": 13,
-    "reach": 12,
+    "views": 16,
+    "reach": 15,
     "likes": 0,
     "comments": 0,
     "saved": 0,
