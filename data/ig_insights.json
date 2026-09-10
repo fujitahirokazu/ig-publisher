@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-09T21:28:51.433637Z",
+ "fetched_at": "2026-09-10T00:00:25.540666Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 50,
@@ -827,8 +827,8 @@
    "date": "2026-09-09",
    "theme": "論点スライド現04上限",
    "metrics": {
-    "views": 18,
-    "reach": 13,
+    "views": 31,
+    "reach": 30,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -844,8 +844,8 @@
    "date": "2026-09-10",
    "theme": "論点スライド現01計画",
    "metrics": {
-    "views": 11,
-    "reach": 10,
+    "views": 13,
+    "reach": 12,
     "likes": 0,
     "comments": 0,
     "saved": 0,
