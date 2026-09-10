@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-10T00:00:25.540666Z",
+ "fetched_at": "2026-09-10T02:00:30.572526Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 50,
@@ -827,8 +827,8 @@
    "date": "2026-09-09",
    "theme": "論点スライド現04上限",
    "metrics": {
-    "views": 31,
-    "reach": 30,
+    "views": 34,
+    "reach": 34,
     "likes": 0,
     "comments": 0,
     "saved": 0,
