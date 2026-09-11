@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-11T00:00:26.791405Z",
+ "fetched_at": "2026-09-11T21:32:06.270572Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 50,
- "media_indexed": 142,
+ "count": 51,
+ "media_indexed": 143,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -640,8 +640,8 @@
    "date": "2026-08-29",
    "theme": "論点スライドT12論点は動く",
    "metrics": {
-    "views": 73,
-    "reach": 61,
+    "views": 76,
+    "reach": 62,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -827,7 +827,7 @@
    "date": "2026-09-09",
    "theme": "論点スライド現04上限",
    "metrics": {
-    "views": 50,
+    "views": 51,
     "reach": 49,
     "likes": 0,
     "comments": 0,
@@ -846,6 +846,23 @@
    "metrics": {
     "views": 16,
     "reach": 15,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18074980103428445",
+   "media_id_original": "18074980103428445",
+   "date": "2026-09-11",
+   "theme": "論点スライドハーバード流交渉術｜BATNA",
+   "metrics": {
+    "views": 8,
+    "reach": 7,
     "likes": 0,
     "comments": 0,
     "saved": 0,
