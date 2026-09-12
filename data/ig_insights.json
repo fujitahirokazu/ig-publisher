@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-11T21:32:06.270572Z",
+ "fetched_at": "2026-09-12T21:10:15.178916Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 51,
- "media_indexed": 143,
+ "count": 52,
+ "media_indexed": 144,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -793,8 +793,8 @@
    "date": "2026-09-06",
    "theme": "論点スライド現03検証",
    "metrics": {
-    "views": 50,
-    "reach": 43,
+    "views": 51,
+    "reach": 44,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -827,8 +827,8 @@
    "date": "2026-09-09",
    "theme": "論点スライド現04上限",
    "metrics": {
-    "views": 51,
-    "reach": 49,
+    "views": 54,
+    "reach": 50,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -844,8 +844,25 @@
    "date": "2026-09-10",
    "theme": "論点スライド現01計画",
    "metrics": {
-    "views": 16,
-    "reach": 15,
+    "views": 17,
+    "reach": 16,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18114853499290259",
+   "media_id_original": "18114853499290259",
+   "date": "2026-09-12",
+   "theme": "名著shorts｜おとり効果",
+   "metrics": {
+    "views": 21,
+    "reach": 17,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -861,8 +878,8 @@
    "date": "2026-09-11",
    "theme": "論点スライドハーバード流交渉術｜BATNA",
    "metrics": {
-    "views": 8,
-    "reach": 7,
+    "views": 13,
+    "reach": 12,
     "likes": 0,
     "comments": 0,
     "saved": 0,
