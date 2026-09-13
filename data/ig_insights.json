@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-12T21:10:15.178916Z",
+ "fetched_at": "2026-09-13T21:14:26.055690Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 52,
- "media_indexed": 144,
+ "count": 53,
+ "media_indexed": 145,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -861,8 +861,8 @@
    "date": "2026-09-12",
    "theme": "名著shorts｜おとり効果",
    "metrics": {
-    "views": 21,
-    "reach": 17,
+    "views": 39,
+    "reach": 31,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -885,6 +885,23 @@
     "saved": 0,
     "shares": 0,
     "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "17958847806208456",
+   "media_id_original": "17958847806208456",
+   "date": "2026-09-13",
+   "theme": "論点スライド失敗の本質｜戦力の逐次投入",
+   "metrics": {
+    "views": 20,
+    "reach": 16,
+    "likes": 0,
+    "comments": 0,
+    "saved": 1,
+    "shares": 0,
+    "total_interactions": 1
    },
    "error": null,
    "note": null
