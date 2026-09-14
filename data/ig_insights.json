@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-13T21:14:26.055690Z",
+ "fetched_at": "2026-09-14T22:14:42.939204Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 53,
- "media_indexed": 145,
+ "count": 54,
+ "media_indexed": 146,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -827,8 +827,8 @@
    "date": "2026-09-09",
    "theme": "論点スライド現04上限",
    "metrics": {
-    "views": 54,
-    "reach": 50,
+    "views": 55,
+    "reach": 51,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -873,13 +873,30 @@
    "note": null
   },
   {
+   "media_id": "18115586251977192",
+   "media_id_original": "18115586251977192",
+   "date": "2026-09-15",
+   "theme": "測りすぎ／測定執着",
+   "metrics": {
+    "views": 16,
+    "reach": 15,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
    "media_id": "18074980103428445",
    "media_id_original": "18074980103428445",
    "date": "2026-09-11",
    "theme": "論点スライドハーバード流交渉術｜BATNA",
    "metrics": {
-    "views": 13,
-    "reach": 12,
+    "views": 14,
+    "reach": 13,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -895,8 +912,8 @@
    "date": "2026-09-13",
    "theme": "論点スライド失敗の本質｜戦力の逐次投入",
    "metrics": {
-    "views": 20,
-    "reach": 16,
+    "views": 38,
+    "reach": 26,
     "likes": 0,
     "comments": 0,
     "saved": 1,
