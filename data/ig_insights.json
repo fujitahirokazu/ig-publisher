@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-14T22:14:42.939204Z",
+ "fetched_at": "2026-09-15T21:54:32.235229Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 54,
- "media_indexed": 146,
+ "count": 55,
+ "media_indexed": 147,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -878,8 +878,8 @@
    "date": "2026-09-15",
    "theme": "測りすぎ／測定執着",
    "metrics": {
-    "views": 16,
-    "reach": 15,
+    "views": 28,
+    "reach": 28,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -919,6 +919,23 @@
     "saved": 1,
     "shares": 0,
     "total_interactions": 1
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "18213581719358131",
+   "media_id_original": "18213581719358131",
+   "date": "2026-09-15",
+   "theme": "論点スライドイシューからはじめよ｜イシュー度",
+   "metrics": {
+    "views": 14,
+    "reach": 11,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
    },
    "error": null,
    "note": null
