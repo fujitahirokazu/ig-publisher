@@ -1,9 +1,9 @@
 {
- "fetched_at": "2026-09-15T21:54:32.235229Z",
+ "fetched_at": "2026-09-16T21:51:59.160142Z",
  "graph_version": "v25.0",
  "token_present": true,
- "count": 55,
- "media_indexed": 147,
+ "count": 56,
+ "media_indexed": 148,
  "reels": [
   {
    "media_id": "18110154967953461",
@@ -878,8 +878,8 @@
    "date": "2026-09-15",
    "theme": "測りすぎ／測定執着",
    "metrics": {
-    "views": 28,
-    "reach": 28,
+    "views": 30,
+    "reach": 30,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -912,8 +912,8 @@
    "date": "2026-09-13",
    "theme": "論点スライド失敗の本質｜戦力の逐次投入",
    "metrics": {
-    "views": 38,
-    "reach": 26,
+    "views": 40,
+    "reach": 27,
     "likes": 0,
     "comments": 0,
     "saved": 1,
@@ -929,7 +929,24 @@
    "date": "2026-09-15",
    "theme": "論点スライドイシューからはじめよ｜イシュー度",
    "metrics": {
-    "views": 14,
+    "views": 19,
+    "reach": 14,
+    "likes": 0,
+    "comments": 0,
+    "saved": 0,
+    "shares": 0,
+    "total_interactions": 0
+   },
+   "error": null,
+   "note": null
+  },
+  {
+   "media_id": "17885025423488191",
+   "media_id_original": "17885025423488191",
+   "date": "2026-09-16",
+   "theme": "論点スライドコーポレート・ファイナンス｜資本コスト",
+   "metrics": {
+    "views": 12,
     "reach": 11,
     "likes": 0,
     "comments": 0,
