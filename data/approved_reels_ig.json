@@ -788,6 +788,20 @@
       "follow_ask": false,
       "length_class": "長文",
       "body_len": 322
+    },
+    {
+      "id": "2026-09-24-auto-noise-barasuki",
+      "theme": "NOISE／ばらつき（ノイズ）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260917_noise_barasuki.mp4",
+      "caption": "「偏り（バイアス）をなくせ」と言い続けても、判断のばらつきは消えない。\n\nカーネマンらの『NOISE』は、ある保険会社で同じ案件を複数の担当に見積もらせる監査をした。価格の差は中央値で55%。経営陣に事前に聞いた予想は10%で、5倍以上ずれていた。偏りは全員が同じ向きに外れるので気づける。ばらつきは向きがバラバラで、平均すると消えるので見えない。だから誰も問題として扱わないまま残る。仕事でも同じだ。評価や見積もりの差は「担当との相性」で片付けられ、設計の問題として扱われない。\n\n明日の一手：同じ案件を2人に独立で判定させ、差がどれだけ出るかを一度だけ測る。\n\n『NOISE』｜ばらつき\n型と全事例はプロフィールのリンクに。明日使える名著を平日に1本出しているので、よければフォローしてほしい。\n\n#NOISE #カーネマン #意思決定 #評価制度 #マネジメント #仕事術 #思考法 #ビジネス書",
+      "scheduled_date": "2026-09-24",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "auto_20260917_noise_barasuki (make_short --style 1)",
+      "hook_ask": false,
+      "follow_ask": true,
+      "length_class": "長文",
+      "body_len": 342
     }
   ]
 }
