@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T23:00:20.579810Z",
+ "generated": "2026-09-21T22:24:30.877136Z",
  "fixes": [
   {
    "theme": "④好意",
@@ -24,6 +24,14 @@
    "new_media_id": "18111878696088871",
    "matched_by": "投稿日一致",
    "permalink": "https://www.instagram.com/reel/DdEisoTESGg/"
+  },
+  {
+   "theme": "測りすぎ／測定執着",
+   "date": "2026-09-15",
+   "old_media_id": "18115586251977192",
+   "new_media_id": "18213581719358131",
+   "matched_by": "投稿日一致",
+   "permalink": "https://www.instagram.com/reel/DdT8uqJCQ24/"
   }
  ]
 }
