@@ -1,13 +1,21 @@
 {
- "generated": "2026-09-25T21:57:39.966846Z",
+ "generated": "2026-09-26T21:47:07.340568Z",
  "fixes": [
   {
    "theme": "④好意",
    "date": "2026-07-20",
    "old_media_id": "18105882722038453",
-   "new_media_id": "17876232915685321",
+   "new_media_id": "17960358378137742",
    "matched_by": "caption一致",
-   "permalink": "https://www.instagram.com/reel/Da-N5KHDSBY/"
+   "permalink": "https://www.instagram.com/reel/Da2iAWRjMhO/"
+  },
+  {
+   "theme": "⑥希少性",
+   "date": "2026-07-20",
+   "old_media_id": "18023849987852356",
+   "new_media_id": "18357294337244457",
+   "matched_by": "投稿日一致",
+   "permalink": "https://www.instagram.com/reel/DbA6L9nii11/"
   },
   {
    "theme": "世界標準の経営理論／知の探索",
@@ -24,14 +32,6 @@
    "new_media_id": "18111878696088871",
    "matched_by": "投稿日一致",
    "permalink": "https://www.instagram.com/reel/DdEisoTESGg/"
-  },
-  {
-   "theme": "測りすぎ／測定執着",
-   "date": "2026-09-15",
-   "old_media_id": "18115586251977192",
-   "new_media_id": "18213581719358131",
-   "matched_by": "投稿日一致",
-   "permalink": "https://www.instagram.com/reel/DdT8uqJCQ24/"
   }
  ]
 }
