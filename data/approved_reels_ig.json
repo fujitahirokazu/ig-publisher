@@ -852,6 +852,26 @@
    "follow_ask": false,
    "length_class": "長文",
    "body_len": 302
+  },
+  {
+   "id": "2026-10-01-ronten-ninchi_backlog",
+   "theme": "論点スライド『TED 驚異のプレゼン』｜認知的バックログ",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_ninchi_backlog_v3.mp4",
+   "caption": "会議の説明は足すほど伝わらなくなる。\n聞いた情報は、処理待ちで頭に積み上がる。聞く側も、一般に思われる以上に疲れる。要点の後のくどい念押しは記憶に残らない。\n明日の一手：話す前に要点を3つに絞る。\n『TED 驚異のプレゼン』｜認知的バックログ\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+   "scheduled_date": "2026-10-01",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "cfg_ninchi_backlog_v3.json"
+  },
+  {
+   "id": "2026-10-02-ronten-toikake_seiyaku",
+   "theme": "論点スライド『問いかけの作法』｜適度な制約",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_toikake_seiyaku_v3.mp4",
+   "caption": "会議の沈黙は、部下のせいではない。\n問いが漠然としていると、考える糸口が無い。評価される場では、自由がかえって不安を生む。差が出るのは、企画会議の最初の一問だ。\n明日の一手：一問目に制約を1つ足す。\n『問いかけの作法』｜適度な制約\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+   "scheduled_date": "2026-10-02",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "cfg_toikake_seiyaku_v3.json"
   }
  ]
 }
