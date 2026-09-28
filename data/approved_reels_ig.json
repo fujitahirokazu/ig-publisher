@@ -872,6 +872,20 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_toikake_seiyaku_v3.json"
+  },
+  {
+   "id": "2026-09-30-auto-musk-algorithm",
+   "theme": "イーロン・マスク／5つの戒律（自動化は最後）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20260928_musk_algorithm.mp4",
+   "caption": "業務の効率化を、自動化から始めていないか？\n\n『イーロン・マスク』によると、テスラは最初からロボットを山ほど使った生産ラインにしたが、うまく動かず、ある工程で試すと手作業のほうがずっとよくできたため、マスクは自動化へのこだわりを捨てた。その教訓を生かしたのが、マスクが「アルゴリズム」と呼ぶ5つの戒律で、要件を疑う、部品や工程を減らす、シンプルにする、サイクルタイムを縮める、最後に自動化する、の順に進める。第1戒では、要件に部署名ではなく、決めた本人の名前を付けさせる。バッテリーのピンにかぶせるキャップを誰が決めたか分からなかったときは要件ごとなくし、その後もピンが曲がるトラブルは起きなかったという。\n\n明日の一手：自動化の前に、各要件を決めた人の名前を書き出す。\n\n『イーロン・マスク』｜5つの戒律\n明日使える名著を紹介している。よければフォローしてほしい。\n\n#イーロンマスク #業務改善 #業務効率化 #自動化 #DX #仕事術 #思考法 #ビジネス書",
+   "scheduled_date": "2026-09-30",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "auto_20260928_musk_algorithm (make_short --style 2)",
+   "hook_ask": true,
+   "follow_ask": true,
+   "length_class": "長文",
+   "body_len": 383
   }
  ]
 }
