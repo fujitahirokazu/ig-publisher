@@ -886,6 +886,46 @@
    "follow_ask": true,
    "length_class": "長文",
    "body_len": 383
+  },
+  {
+   "id": "2026-10-03-ronten-sanbai_housoku",
+   "theme": "論点スライド『世界標準の「部下の育て方」』｜三倍の法則",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_sanbai_housoku_v3.mp4",
+   "caption": "部下への指摘は、褒めて締めると効かない。\n最後に全体を褒めると、改善点が軽く聞こえる。褒めるのは、指摘の前に三つ。先に心の扉を開ける。危ないのは、相手の表情が曇り、つい褒めたくなった時だ。\n明日の一手：良い点を三つ言ってから、改善点で終える。\n『世界標準の「部下の育て方」』｜三倍の法則\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+   "scheduled_date": "2026-10-03",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "cfg_sanbai_housoku_v3.json"
+  },
+  {
+   "id": "2026-10-05-ronten-jiko_kanri",
+   "theme": "論点スライド『図解 目標管理入門』｜セルフ・コントロール",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_jiko_kanri_v3.mp4",
+   "caption": "部下の目標は、上司が決めるものではない。\n目標管理の利点は、自分の仕事を自分で管理することだ。「目標管理」と訳したとき、その部分が抜け落ちた。目標設定は、上司と部下のズレが見えてから始まる。\n明日の一手：部下に目標を書いて出してもらい、ズレから話す。\n『図解 目標管理入門』｜セルフ・コントロール\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+   "scheduled_date": "2026-10-05",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "cfg_jiko_kanri_v3.json"
+  },
+  {
+   "id": "2026-10-07-ronten-who_knows_what",
+   "theme": "論点スライド『世界標準の経営理論』｜誰が何を知っているか",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_who_knows_what_v3.mp4",
+   "caption": "上司は、部下の知識を全部覚えなくていい。\n一人が覚えられる量には、そもそも限りがある。要るのは中身ではなく、誰が何を知っているかの索引だ。学生の実験では、索引を一人に集めた組の方が成果が高かった。\n明日の一手：部下ごとに「何に詳しいか」を1行で書き出す。\n『世界標準の経営理論』｜誰が何を知っているか\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+   "scheduled_date": "2026-10-07",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "cfg_who_knows_what_v3.json"
+  },
+  {
+   "id": "2026-10-10-ronten-oneonone_hyouka",
+   "theme": "論点スライド『世界標準の1on1』｜自己評価の歪み",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/ronten_oneonone_hyouka_v3.mp4",
+   "caption": "部下との1on1は、上司の手応えでは測れない。\n自己評価は、目の錯覚のように歪み、高く出やすい。終わった直後の満足感は、成功の証拠にならない。決め手は、部下が「役に立った」と感じたかだ。\n明日の一手：最後に「今日、何が一番役に立った？」と聞く。\n『世界標準の1on1』｜自己評価の歪み\n型と全事例はプロフィールのリンクに。\n\n#思考法 #論点思考 #意思決定 #仕事術 #ビジネス",
+   "scheduled_date": "2026-10-10",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "cfg_oneonone_hyouka_v3.json"
   }
  ]
 }
