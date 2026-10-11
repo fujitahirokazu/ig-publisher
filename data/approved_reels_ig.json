@@ -1056,6 +1056,20 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_shigoto_chudan_v3.json"
+  },
+  {
+   "id": "2026-10-14-auto-giyousei",
+   "theme": "『起業の失敗大全』｜擬陽性（初期顧客の熱狂を市場の需要と読む）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261012_giyousei.mp4",
+   "caption": "初期の客に絶賛されたことは、市場の需要の証拠にならない。\n\n『起業の失敗大全』の著者は、ハーバード・ビジネス・スクールの教授。起業家470社への調査から、スタートアップの失敗の大部分を6つのパターンで説明した。その1つが「擬陽性」だ。最初に使う客は、そのプロダクトへのニーズが強く、新しもの好きなことも多い。その熱狂を市場全体の需要と読んでアクセルを踏むと、次に来る普通の客の反応は薄い。作り直しにはコストがかかり、初期の客も離れる。需要が強いと示す声ほど、誰の声かを確かめる必要がある。\n\n明日の一手：需要の根拠にしている顧客の声を、最初に使った客と普通の客に分けて数える。\n\n『起業の失敗大全』｜擬陽性\n型と全事例はプロフィールのリンクに。\n\n#起業の失敗大全 #起業 #新規事業 #顧客理解 #スタートアップ #仕事術 #ビジネス書",
+   "scheduled_date": "2026-10-14",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "auto_20261012_giyousei (make_short --style 4)",
+   "hook_ask": false,
+   "follow_ask": false,
+   "length_class": "長文",
+   "body_len": 244
   }
  ]
 }
