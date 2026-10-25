@@ -1104,6 +1104,18 @@
       "source_cfg": "auto_20261022_kasetsu_gimon (make_short --style 4)",
       "hook_ask": false,
       "follow_ask": false
+    },
+    {
+      "id": "2026-10-26-auto-bumon-tairitsu",
+      "theme": "『THE MODEL』｜部門間の対立（飲み会で仲良くさせても、対立は消えない）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261026_bumon_tairitsu.mp4",
+      "caption": "部門同士を飲み会で仲良くさせても、部門間の対立は消えない。\n\n『THE MODEL』は、社会心理学者シェリフの「泥棒洞窟実験」を引く。サマーキャンプの少年たちを2組に分けて競わせると、互いに敵対した。一緒に花火を見る、パーティをするといった交流を入れても、関係は戻らなかった。改善に向かったのは、止まった飲料水の供給を取り戻すなど、2組が協力しないと終わらない作業を与えたときだ。\n\n明日の一手：他部門と揉めている案件で、両方が動かないと達成できない共通の目標を1つ書き出す。\n\n『THE MODEL』｜部門間の対立\n型と全事例はプロフィールのリンクに。\n\n#THE_MODEL #組織論 #部門間連携 #営業組織 #仕事術 #ビジネス書 #マネジメント",
+      "scheduled_date": "2026-10-28",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "auto_20261026_bumon_tairitsu (make_short --style 0)",
+      "hook_ask": false,
+      "follow_ask": false
     }
   ]
 }
