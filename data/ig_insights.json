@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-10-25T23:15:35.883179Z",
+ "fetched_at": "2026-10-26T04:15:34.059691Z",
  "graph_version": "v25.0",
  "token_present": true,
  "count": 65,
@@ -113,7 +113,7 @@
    "date": "2026-07-22",
    "theme": "イシュー度（イシューからはじめよ）",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18091239017568445' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AlCrjWMo8c76Vris0dPJLHt\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18091239017568445' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"Alc2X5OikAUbVSuCH7UBOKy\"}}",
    "note": null
   },
   {
@@ -173,7 +173,7 @@
    "date": "2026-08-02",
    "theme": "論点スライド③会議",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18103507586520083' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AZo_2WVesk0F6xwMDYFFsaa\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18103507586520083' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AlDObDV7uNaQTWP-zlHtsbR\"}}",
    "note": null
   },
   {
@@ -199,7 +199,7 @@
    "date": "2026-08-08",
    "theme": "論点スライド⑤買い物",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18235668865315816' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"ATFNDku6xrgz6dxN-ZPuPoh\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18235668865315816' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AC75yAVMxD3XC4VnRRp2O7D\"}}",
    "note": null
   },
   {
@@ -225,7 +225,7 @@
    "date": "2026-08-14",
    "theme": "論点スライド⑦ジム",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18192031528384643' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AiytWz-7tsTY4BLrMkb6p3l\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18192031528384643' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A16KEQBVoMgBETrjEjL_nfe\"}}",
    "note": null
   },
   {
@@ -251,7 +251,7 @@
    "date": "2026-08-20",
    "theme": "論点スライド⑨副業",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18617806930012813' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"Axmuu7sWz1ZQ0RR2XU4SDhd\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18617806930012813' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AE8xA5XOPupu535Hy4eCLlG\"}}",
    "note": null
   },
   {
@@ -294,7 +294,7 @@
    "date": "2026-08-15",
    "theme": "論点スライド⑪撤退",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18072187172422112' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AIpM3T2oo0R0DQE4OE2EOd7\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18072187172422112' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"Ac1pg1AViDDap4JttSwXP0t\"}}",
    "note": null
   },
   {
@@ -303,7 +303,7 @@
    "date": "2026-08-26",
    "theme": "診断（良い戦略、悪い戦略）",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18387352318166833' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AM2_Rjh8g41Ram9L4nruJVX\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18387352318166833' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AwOFwF6Zzxq5kck0762cvQi\"}}",
    "note": null
   },
   {
@@ -312,7 +312,7 @@
    "date": "2026-08-13",
    "theme": "論点スライドkuruma",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18120539119814714' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AgANyvvt1Ek5_mBHQoeeG10\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18120539119814714' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AUevZ9GRge-5FX0rKXQkA5J\"}}",
    "note": null
   },
   {
@@ -321,7 +321,7 @@
    "date": "2026-08-21",
    "theme": "論点スライド⑫上申",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18122150344879046' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AEtvgqYuEeLjBMXxgfkGnQ7\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18122150344879046' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AWkfCM7KvaUQ67t5o86s5C2\"}}",
    "note": null
   },
   {
@@ -415,7 +415,7 @@
    "date": "2026-08-04",
    "theme": "論点スライドT03歩留まり",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18065178824759981' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"ACMzWOwfa0AqyTN9i3N4DKn\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18065178824759981' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A0v7i0qUqSj9p_K6ycmUTFl\"}}",
    "note": null
   },
   {
@@ -458,7 +458,7 @@
    "date": "2026-08-10",
    "theme": "論点スライドT06当たり",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18120116167910478' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"ASDIl7TH6klPKsP-hetoPwu\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18120116167910478' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AupoXgXoSQ9mZ3XyCpIuftZ\"}}",
    "note": null
   },
   {
@@ -518,7 +518,7 @@
    "date": "2026-08-25",
    "theme": "論点スライドT08源泉",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18580601899069379' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AJOjXHmJp31qlCfJUvZcTIG\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18580601899069379' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AizFW6ppWEFaFNOBl41pl5J\"}}",
    "note": null
   },
   {
@@ -765,7 +765,7 @@
    "date": "2026-09-12",
    "theme": "名著shorts｜おとり効果",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18114853499290259' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AzOBSdUswf5V9ZOOOqi1hNk\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18114853499290259' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"Aus6D05W1-1v07IyCl8YeEz\"}}",
    "note": null
   },
   {
@@ -774,7 +774,7 @@
    "date": "2026-09-15",
    "theme": "測りすぎ／測定執着",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18115586251977192' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AaRYQfpwxfjViD6SiH8LZG_\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18115586251977192' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AwR43aX1OkOPq-YUUJmBjJB\"}}",
    "note": null
   },
   {
@@ -783,7 +783,7 @@
    "date": "2026-09-11",
    "theme": "論点スライドハーバード流交渉術｜BATNA",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18074980103428445' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AlpzGMlMrQnATjQXY8k6WTd\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18074980103428445' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A0fbOX_roS1kxPufD4LgFGe\"}}",
    "note": null
   },
   {
@@ -809,7 +809,7 @@
    "date": "2026-09-15",
    "theme": "論点スライドイシューからはじめよ｜イシュー度",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18213581719358131' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A37f6w3i7wCR_SPZxhS4HOX\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '18213581719358131' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"A4Z-SjmOUcv7wZqZMq7lSDH\"}}",
    "note": null
   },
   {
@@ -818,7 +818,7 @@
    "date": "2026-09-16",
    "theme": "論点スライドコーポレート・ファイナンス｜資本コスト",
    "metrics": {},
-   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '17885025423488191' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AMvQJtBN6pAf512llSHK1WZ\"}}",
+   "error": "{\"error\":{\"message\":\"Unsupported get request. Object with ID '17885025423488191' does not exist, cannot be loaded due to missing permissions, or does not support this operation\",\"type\":\"IGApiException\",\"code\":100,\"error_subcode\":33,\"fbtrace_id\":\"AR6-oCp9cwFW7s_DDohSevE\"}}",
    "note": null
   },
   {
@@ -930,7 +930,7 @@
    "theme": "論点スライド『「仕事ができる」とはどういうことか？』｜センス",
    "metrics": {
     "views": 166,
-    "reach": 130,
+    "reach": 131,
     "likes": 0,
     "comments": 0,
     "saved": 0,
@@ -947,7 +947,7 @@
    "theme": "論点スライド『新1分間マネジャー』｜1分間称賛",
    "metrics": {
     "views": 1494,
-    "reach": 1266,
+    "reach": 1267,
     "likes": 2,
     "comments": 0,
     "saved": 4,
