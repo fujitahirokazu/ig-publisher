@@ -1158,6 +1158,18 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_tokui_shigoto_v3.json"
+  },
+  {
+   "id": "2026-10-31-auto-wysiati",
+   "theme": "『ファスト＆スロー』｜見たものがすべて（情報が少ないほど、人は自信を持つ）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261029_wysiati.mp4",
+   "caption": "情報が少ないほど、人は自信を持つ。\n\n『ファスト＆スロー』は、これを「見たものがすべて（WYSIATI）」と呼ぶ。頭は手元の情報だけで筋の通る話を作り、足りない情報には気づけない。自信の強さを決めるのは、情報の量や質よりも、話の筋の通りやすさだ。\n\n明日の一手：次の判断の前に、結論を覆す情報を1つ書く。\n\n『ファスト＆スロー』｜見たものがすべて\n型と全事例はプロフィールのリンクに。\n\n#ファスト＆スロー #行動経済学 #意思決定 #認知バイアス #仕事術 #ビジネス書 #思考法",
+   "scheduled_date": "2026-10-31",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "auto_20261029_wysiati (make_short --style 3)",
+   "hook_ask": false,
+   "follow_ask": false
   }
  ]
-}
+}
