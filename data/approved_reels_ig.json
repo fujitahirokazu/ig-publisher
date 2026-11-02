@@ -1212,6 +1212,18 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_akuma_daiben_v3.json"
+  },
+  {
+   "id": "2026-11-02-auto-hempo-sei",
+   "theme": "『影響力の武器』｜返報性（好意がなくても、人は借りを返してしまう）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261102_hempo_sei.mp4",
+   "caption": "好意がなくても、人は借りを返してしまう。\n\nある大学教授が、見知らぬ人々にクリスマスカードを送ったところ、返事のカードが山のように届いた。返事を出した人の大部分は、相手が何者かを尋ねもしなかった。『影響力の武器』は、これを返報性のルールと呼ぶ。先に何かを受けると、人はお返しをしなければと感じる。\n\n明日の一手：依頼を受ける前に、先に受けた厚意と、依頼の中身を、別々に評価する。\n\n『影響力の武器』｜返報性\n型と全事例はプロフィールのリンクに。\n\n#影響力の武器 #返報性 #行動心理学 #意思決定 #仕事術 #ビジネス書 #交渉術",
+   "scheduled_date": "2026-11-04",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "auto_20261102_hempo_sei (make_short --style 0)",
+   "hook_ask": false,
+   "follow_ask": false
   }
  ]
 }
