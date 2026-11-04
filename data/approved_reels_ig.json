@@ -1256,6 +1256,16 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_shibou_douki_v3.json"
+  },
+  {
+   "id": "2026-11-05-auto-shakaiteki-shoumei",
+   "theme": "『影響力の武器』｜社会的証明（会場の反応を加工すると、討論の評価が変わる）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261105_shakaiteki_shoumei.mp4",
+   "caption": "同じ討論でも、拍手を足しただけで、勝者の評価は変わる。\n研究者は候補者の発言をそのままに、会場の拍手や笑い声だけを加工して、離れた場所の人に評価させた。結果は毎回同じで、会場の反応が好意的に見えた候補が、リーダーとしての資質まで高く評価された。人は他人の反応を、正しさの手がかりにする。\n明日の一手：会議で「皆が賛成」と聞いたら、人数でなく、一人ひとりの理由を聞く。\n『影響力の武器』｜社会的証明\n型と全事例はプロフィールのリンクに。\n\n#思考法 #意思決定 #仕事術 #ビジネス #心理学",
+   "scheduled_date": "2026-11-07",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "_built_auto_20261105_shakaiteki_shoumei_cfg.json"
   }
  ]
 }
