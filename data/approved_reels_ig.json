@@ -1280,6 +1280,16 @@
       "post_time": "19:00",
       "status": "pending",
       "source_cfg": "_built_auto_20261109_kishousei_cfg.json"
+    },
+    {
+      "id": "2026-11-14-auto-peak-end",
+      "theme": "『ファスト＆スロー』｜ピーク・エンドの法則（長く苦しんだほうを、人はもう一度選ぶ）",
+      "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261112_peak_end.mp4",
+      "caption": "長く苦しんだほうを、人はもう一度選ぶ。\n14℃の冷水に手を60秒つける試行と、60秒のあとさらに30秒、水温をわずかに上げて続ける試行。どちらをもう一度やるか聞くと、温度が上がったと感じた人の約8割が長いほうを選んだ。人は経験を、いちばん強い瞬間と最後の瞬間で記憶し、長さをほぼ無視する。\n明日の一手：プロジェクトや部下の振り返りは、最後の印象で決めない。期間中の記録を先に見てから評価する。\n『ファスト＆スロー』｜ピーク・エンドの法則\n型と全事例はプロフィールのリンクに。\n\n#思考法 #意思決定 #仕事術 #行動経済学 #マネジメント",
+      "scheduled_date": "2026-11-14",
+      "post_time": "19:00",
+      "status": "pending",
+      "source_cfg": "_built_auto_20261112_peak_end_cfg.json"
     }
   ]
 }
