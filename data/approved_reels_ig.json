@@ -1372,6 +1372,17 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_ichibun_shusei_v3.json"
+  },
+  {
+   "id": "2026-11-18-auto-kouken-do",
+   "theme": "『ファスト＆スロー』｜利用可能性ヒューリスティック（全員の自己申告の貢献度を足すと100%を超える）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261116_kouken_do.mp4",
+   "caption": "全員が自己申告した貢献度を足すと、100%を超える。\n夫婦それぞれに「家事の何割を自分でやっているか」を聞くと、2人の答えの合計は100%を超えることが多い。どちらも嘘はついていない。自分の作業は思い出しやすく、相手の作業は目に入りにくいだけ。人は、思い出しやすいものほど多いと判断する。チームでも同じことが起きる。\n明日の一手：役割や評価を話す前に、各自の貢献度を書き出して足す。合計が100%を超えたら、そこから話し合う。\n『ファスト＆スロー』｜利用可能性ヒューリスティック\n明日使える名著を紹介している。よければフォローしてほしい。\n\n#ファストアンドスロー #カーネマン #意思決定 #行動経済学 #チームビルディング #マネジメント #仕事術 #思考法",
+   "scheduled_date": "2026-11-18",
+   "post_time": "19:00",
+   "status": "pending",
+   "follow_ask": true,
+   "source_cfg": "_built_auto_20261116_kouken_do_cfg.json"
   }
  ]
 }
