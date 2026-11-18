@@ -1415,6 +1415,18 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_taiou_bias_v3.json"
+  },
+  {
+   "id": "2026-11-21-auto-kuuki",
+   "theme": "『「空気」の研究』｜空気と水（会議で結論を決めているのは、出席者ではなく「空気」だ）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261119_kuuki.mp4",
+   "caption": "会議で結論を決めているのは、出席者ではなく、「空気」だ。\n山本七平は『「空気」の研究』で、戦艦大和の特攻出撃の決定を例に挙げる。出撃を無謀とする側には、細かいデータと明確な根拠があった。当然とする側の根拠は「全般の空気」だけだった。しかも決めたのは、海を知りつくした専門家たちだった。空気を崩すのは「水を差す」一言だと山本は書く。目の前の具体的な障害を口にすると、人は現実に引き戻される。\n明日の一手：決める前に、その案の一番具体的な障害を、全員に1つずつ書いてもらう。\n『「空気」の研究』｜空気と水\n明日使える名著を紹介している。よければフォローしてほしい。\n\n#空気の研究 #山本七平 #意思決定 #会議 #組織 #マネジメント #仕事術 #思考法",
+   "scheduled_date": "2026-11-21",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "_built_auto_20261119_kuuki_cfg.json (make_short --style 3)",
+   "hook_ask": false,
+   "follow_ask": true
   }
  ]
 }
