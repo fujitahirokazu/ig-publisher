@@ -1469,6 +1469,18 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_process_kpi_v3.json"
+  },
+  {
+   "id": "2026-11-25-auto-jouken_housyu",
+   "theme": "『モチベーション3.0』｜条件付きの報酬（「できたらボーナス」は考える仕事を遅くする）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261123_jouken_housyu.mp4",
+   "caption": "「できたらボーナス」と約束すると、考える仕事はかえって遅くなる。\nダニエル・ピンクは『モチベーション3.0』で、ろうそくの問題を挙げる。ろうそくと画びょうの箱を渡し、ろうそくを壁に取り付けさせる実験で、早く解けたら報酬を払うと告げられた組は、何も告げられない組より平均で3分半ほど長くかかった。報酬を意識すると視野が狭まり、箱を台に使う発想が出にくくなる。手順が決まった単純作業では、逆に報酬のある組が速かった。\n明日の一手：考える仕事を頼むときは、見返りを先に約束しない。終わった後に、予告なしで認める。\n『モチベーション3.0』｜条件付きの報酬\n型と全事例はプロフィールのリンクに。\n\n#モチベーション3.0 #ダニエルピンク #マネジメント #部下育成 #意思決定 #仕事術 #思考法",
+   "scheduled_date": "2026-11-25",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "_built_auto_20261123_jouken_housyu_cfg.json (make_short --style 4)",
+   "hook_ask": false,
+   "follow_ask": false
   }
  ]
 }
