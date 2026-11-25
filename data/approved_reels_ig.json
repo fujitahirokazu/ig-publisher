@@ -1513,6 +1513,18 @@
    "post_time": "19:00",
    "status": "pending",
    "source_cfg": "cfg_houshu_jouhou_v3.json"
+  },
+  {
+   "id": "2026-11-28-auto-heikin_kaiki",
+   "theme": "『ファスト＆スロー』｜平均への回帰（叱ると伸び褒めると落ちるのは、指導の効果ではない）",
+   "video_url": "https://raw.githubusercontent.com/fujitahirokazu/ig-publisher/main/videos/auto_20261126_heikin_kaiki.mp4",
+   "caption": "部下を叱った次は良くなり、褒めた次は悪くなる。それは指導が効いたのではない。\nカーネマンは『ファスト＆スロー』で、飛行教官の言葉を紹介する。「うまく着陸した訓練生を褒めると次は下手になり、失敗を怒鳴ると次は上手くなる」。出来は毎回ぶれる。とびきり良かった回の次も、ひどかった回の次も、ふだんの水準に戻りやすい。これが平均への回帰だ。この自然な戻りを指導の手応えと読み違えると、叱るほど自分のやり方に自信を深めてしまう。\n明日の一手：部下の出来を評価するときは、1回の結果でなく直近の数回分を並べて見てから決める。\n『ファスト＆スロー』｜平均への回帰\n型と全事例はプロフィールのリンクに。\n\n#ファストアンドスロー #カーネマン #マネジメント #部下育成 #フィードバック #意思決定 #行動経済学",
+   "scheduled_date": "2026-11-28",
+   "post_time": "19:00",
+   "status": "pending",
+   "source_cfg": "_built_auto_20261126_heikin_kaiki_cfg.json (make_short --style 0)",
+   "hook_ask": false,
+   "follow_ask": false
   }
  ]
 }
